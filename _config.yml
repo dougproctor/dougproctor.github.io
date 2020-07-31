@@ -5,7 +5,7 @@ page_title                                : Tiny Talk                           
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : T                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -37,7 +37,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Sort
-    description                           : Tiny Talk enables you sort your phone's contacts to specify whether you'd want to randomly chat with someone, or not (and block them). Other Tiny Talk users will never know if you've blocked them or sorted them into a specific group.
+    description                           : Sort or block your contacts to generate the list of people you're eligible to Tiny Talk with. Other Tiny Talk users will never know if you've blocked them.
     fontawesome_icon_name                 : magic
 
   - title                                 : Match
