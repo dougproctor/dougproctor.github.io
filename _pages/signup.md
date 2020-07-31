@@ -4,6 +4,8 @@ title: Sign Up
 include_in_header: true
 ---
 
+{% include head.html %}
+
 **Tiny Talk will be available in mid-August 2020 for iOS and Android.**
 
 <br>
