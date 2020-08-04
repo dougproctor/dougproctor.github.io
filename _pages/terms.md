@@ -4,10 +4,10 @@ title: Terms
 include_in_header: false
 ---
 
-**TERMS OF SERVICE**
+<h2>TERMS OF SERVICE</h2>
 
 
-Last updated August 01, 2020
+<h6>Last updated August 01, 2020</h6>
 
 
 AGREEMENT TO TERMS
@@ -157,3 +157,6 @@ CONTACT US
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:
 
 support@tinytalk.io
+
+
+{% include footer.html %}

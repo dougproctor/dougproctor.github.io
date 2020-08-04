@@ -36,17 +36,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Sort
-    description                           : Sort or block your contacts to generate the list of people you're eligible to Tiny Talk with. Other Tiny Talk users will never know if you've blocked them.
-    fontawesome_icon_name                 : magic
+  - title                                 :
+    description                           :
+    fontawesome_icon_name                 :
 
-  - title                                 : Match
-    description                           : From time to time, the app will invite you to join a Tiny Talk with one of your contacts, chosen randomly. You won't know who they are -- and neither will they -- until you both opt-in and are matched. You can also manually initiate a Tiny Talk anytime, and it works exactly the same way.
-    fontawesome_icon_name                 : mobile
+  - title                                 :
+    description                           :
+    fontawesome_icon_name                 :
 
-  - title                                 : Chat
-    description                           : Once a match has been made, you'll be automatically connected for a seven-minute video chat. At the end of seven minutes, the chat will end -- that's it! Tiny Talks are hors d'oeuvres -- if you're still hungry, just call the person back.
-    fontawesome_icon_name                 : play-circle
+  - title                                 :
+    description                           :
+    fontawesome_icon_name                 :
 
 
 

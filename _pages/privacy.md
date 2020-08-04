@@ -4,11 +4,9 @@ title: Privacy
 include_in_header: false
 ---
 
-**PRIVACY POLICY**
+<h2>PRIVACY POLICY</h2>
 
-Last updated August 01, 2020
-
-
+<h6>Last updated August 01, 2020</h6>
 
 Thank you for choosing to be part of our community at Tiny Talk Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at support@tinytalk.io.
 
@@ -189,3 +187,6 @@ If you have questions or comments about this notice, you may email us at support
 HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request to support@tinytalk.io. We will respond to your request within 30 days.
+
+
+{% include footer.html %}

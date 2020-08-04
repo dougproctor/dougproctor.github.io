@@ -4,11 +4,9 @@ title: Sign Up
 include_in_header: true
 ---
 
-**Tiny Talk will be available in mid-August 2020 for iOS and Android.**
+<h3>Tiny Talk will be available in mid-August 2020 for iOS and Android.</h3>
 
-<br>
-
-Sign up below to reserve an exclusive invite to Tiny Talk.
+Sign up below to reserve an exclusive invite to Tiny Talk
 
 <br>
 
@@ -20,6 +18,7 @@ Sign up below to reserve an exclusive invite to Tiny Talk.
 
 </style>
 <div id="mc_embed_signup">
+
 <form action="https://tinytalk.us17.list-manage.com/subscribe/post?u=29248ea6ebad11f4d2ca907d0&amp;id=67523ebad2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 
@@ -34,3 +33,5 @@ Sign up below to reserve an exclusive invite to Tiny Talk.
 <!--End mc_embed_signup-->
 
 <br>
+
+{% include footer.html %}

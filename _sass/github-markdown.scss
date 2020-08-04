@@ -55,6 +55,12 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
   color: rgba(#000000, 1);
 }
 
+
+// FAQ <h3> color styling
+// .markdown-body h3 {
+//  color: rgba(#2CBDFB, 1);
+// }
+
 .markdown-body h1:hover .anchor,
 .markdown-body h2:hover .anchor,
 .markdown-body h3:hover .anchor,
