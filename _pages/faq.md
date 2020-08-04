@@ -49,11 +49,7 @@ include_in_header: true
 
 <h3>Will other users see when I decline to join a Tiny Talk?</h3>
 
-> Nope! If it's not a good time, decline away. The only time another user will identify you is after you have opted-in to a Tiny Talk and successfully matched. You can also adjust your availability windows in **Notifications** settings.
-
-<h3>How do I change my notification preferences?</h3>
-
-> You can change your notification preferences in the Tiny Talk application **Settings**.
+> Nope! If it's not a good time, decline away. The only time another user will identify you is after you have opted-in to a Tiny Talk and successfully matched. You can also adjust your notification preferences and availability windows in the app Settings.
 
 <h3>Can I turn off video and just do audio chat?</h3>
 
