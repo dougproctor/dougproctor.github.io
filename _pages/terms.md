@@ -7,7 +7,7 @@ include_in_header: false
 <h2>TERMS OF SERVICE</h2>
 
 
-<h6>Last updated August 01, 2020</h6>
+<h6>Last updated August 13, 2020</h6>
 
 
 AGREEMENT TO TERMS

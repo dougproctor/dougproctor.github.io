@@ -6,7 +6,7 @@ include_in_header: true
 
 <h3>Tiny Talk will be available in mid-August 2020 for iOS and Android.</h3>
 
-Sign up below to reserve an exclusive invite to Tiny Talk
+Sign up below to reserve your place for an exclusive invite to Tiny Talk.
 
 <br>
 
