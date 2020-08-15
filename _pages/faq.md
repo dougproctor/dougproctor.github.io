@@ -65,4 +65,8 @@ include_in_header: true
 >
 > Contact us at team@tinytalk.io
 
+<h3> How do I get in touch regarding bugs, issues or to report abuse?
+
+> You can contact us for regarding product support or other issues with Tiny Talk at support@tinytalk.io. We always apprecaite hearing from you.
+
 {% include footer.html %}
