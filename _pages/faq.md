@@ -65,8 +65,8 @@ include_in_header: true
 >
 > Contact us at team@tinytalk.io
 
-<h3> How do I get support?  touch regarding bugs, issues or to report abuse?</h3>
+<h3> How do I get support?</h3>
 
-> To contact us regarding bugs, product support or to report abuse, please email us at support@tinytalk.io.
+> To contact us regarding bugs, support or to report abuse, please email us at support@tinytalk.io.
 
 {% include footer.html %}
