@@ -6,184 +6,141 @@ include_in_header: false
 
 <h2>PRIVACY POLICY</h2>
 
-<h6>Last updated August 13, 2020</h6>
+<h6>Last updated August 17, 2020</h6>
 
-Thank you for choosing to be part of our community at Tiny Talk Inc. (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at support@tinytalk.io.
+The Tiny Talk Privacy Policy is designed to help you understand the information we collect and the different ways we may use or share it.
 
-When you use any of our services (the "Services", which include the website and mobile application), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
+This policy applies to your use of Tiny Talk. By "Tiny Talk,” we mean the Tiny Talk website, mobile app, and any other of our products and services that directly link to this policy.
 
-This privacy notice applies to all information collected through our Services (which, as described above, includes our website and mobile application), as well as any related services, sales, marketing or events.
+And who are we? We’re Tiny Talk Inc. To learn more about privacy at Tiny Talk, please keep reading below! If you'd like to read our Terms of Service.
 
-Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
+What Information We Collect
 
+You probably wonder what information we collect. This often depends on the exact nature of our relationship with you and how you choose to use Tiny Talk, but we’ve described the most common examples below. We have broken these descriptions down into categories to make them clearer:
 
-TABLE OF CONTENTS
+We collect account information. We collect information relating to your account. For example, we collect basic registration details like name, email address, birthday, and phone number when you create a Tiny Talk account. You may be able to share other account-related information with us too, like if you choose to provide a profile photo. We collect some information about your friends when you invite or refer them to Tiny Talk or import your contacts.
 
-1. WHAT INFORMATION DO WE COLLECT?
+We collect usage information. We collect information about your interactions with and on Tiny Talk. For example, we collect information about how long you chat with your friends.
 
-2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+Tiny Talk uses this info to make the product better for you so you can focus on being present with your friends. We want to do the heavy lifting, utilizing tech to improve the experience.
 
-3. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+We collect certain information when you link third party accounts or apps to Tiny Talk. If you link social media accounts to Tiny Talk, we collect certain social media account information. If you grant access to your contacts we collect information about your friends, like their names and phone numbers.
 
-4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+We may collect location information. For example, we may derive your location information based on your IP address.
 
-5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+We collect feedback information. We collect information that you give us when you complete a survey or participate in a contest or promotion. This includes when you write a review or make a suggestion.
 
-6. HOW LONG DO WE KEEP YOUR INFORMATION?
+We collect device information. We collect information about the browser or device you are using. We may look at what site you came from, or what site you visit when you leave us. We may also collect device identifiers. For example, this might include your operating system and hardware model. This may also include your mobile carrier.
 
-7. DO WE COLLECT INFORMATION FROM MINORS?
+Why We Collect Information
 
-8. WHAT ARE YOUR PRIVACY RIGHTS?
+Now that you know what we collect, we want to tell you why and what we do with that information. Below we explain how we use information:
 
-9. CONTROLS FOR DO-NOT-TRACK FEATURES
+We use some information to communicate with you. We use information to respond to your questions, including questions about our services or your relationship with us, and to communicate with you about this policy or our Terms. We may also contact you about your feedback.
 
-10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+We just want to be able to be responsive to you, and occasionally reach out to hear how it’s going on Tiny Talk, and make sure you have updates on what’s going on with us!
 
-11. DO WE MAKE UPDATES TO THIS NOTICE?
+We use some information so you can participate in Tiny Talk and to enhance your experience. We use information to process your registration and to empower you to use certain features. With your permission where required by law, for example, we use information to suggest other users with whom you may want to connect. We also use information so you can invite new people to join Tiny Talk and to provide or suggest specific features.
 
-12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+We help you find friends and make connections. For example, we might suggest a connection to you based on your friends on who could be a good addition to your contacts.
 
+We use some information to improve our products. We use information to make Tiny Talk better, for example by saving certain preferences you choose, tracking events in Tiny Talk, and recording other performance data. We use this information to customize your experience, analyze product trends, and to develop and improve our products.
 
+We use some information for marketing purposes. We use your information to share updates about new products and special offers, including promotions, surveys, and contests, through email, on our app, or on social media platforms. We might also use this information to tell you about products and offers, new features, or updates. These might be our own offers or products or select third-party offers or products we think you might find interesting.
 
-1. WHAT INFORMATION DO WE COLLECT?
+We use information to protect our company and users. We use information to protect our company and users, for example to identify fraud and secure, protect accounts, and protect Tiny Talk. This includes looking into potentially prohibited or illegal activity.
 
-Personal information you disclose to us
+We may also use push notifications in our mobile apps. We may send you push notifications about updates and other information we think you will find interesting, for example to let you know when a friend is online.
 
-In Short:  We collect information that you provide to us.
+Our basis for processing European information. Our basis for processing your information for the reasons described above is typically to perform a contract, including responding to your requests. For example, this includes providing customer service. Where this applies, if you choose not to provide information, we may be unable to perform the contract or respond to your request. We also process information based on your consent. Where you have provided consent, you have the right to withdraw it. We also use information about you when we have a legitimate purpose in doing so. For example, this includes helping secure and improve Tiny Talk.
 
-We collect personal information that you voluntarily provide to us when you register on the express an interest in obtaining information about us or our products and Services, or otherwise when you contact us.
+We also use information as otherwise permitted by law.
 
-The personal information that we collect depends on the context of your interactions with us, the choices you make and the products and features you use. The personal information we collect may include the following:
+How We Collect Information
 
-Social Media Login Data. We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS" below.
+Like many other companies, there are different ways that we collect information, which we’ve outlined below:
 
-Personally Identifying Data. When you register to user our products and or services, we will request that you provide some basic personally identifying data such as your name, phone number, date of birth (for ensuring compliance with Terms of Service) and other similar data. The purpose of collecting this data is to ensure compliance with our Terms of Service as well as the provide you with the best possible product experience while simultaneously ensuring that we collect only the minimum required data to achieve our product objectives, and of ensuring that the purpose of collecting any discrete piece of personal data is made as clear as possible.
+We collect information directly from you. You might provide us information in several ways. For example, we collect information when you create an account, contact us, or participate in a survey.
 
-Mobile Device Contact Data. When you use our products and services, we will request that you grant access to your mobile device contact information. The purpose of collecting this data is to provide you with a queue of contacts with whom you may connect through our product.
+We collect information passively. We use tracking tools to collect information from you passively. These tools include things like browser cookies and web beacons. We use these on our sites and in emails that we send to you. We collect this information about users over time when you download and use our app.
 
-All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
+The information we gather helps us give you the best experience on Tiny Talk.
 
-Information automatically collected
+We get information about you from third parties. Social media platforms and third-party apps may give us information about you. We may also collect information about you from other users. This might include your name, phone number, or email address if they invite or refer you to our app or if they have linked their contacts to their Tiny Talk account.
 
-In Short:  Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our website and/or utilize our products or services.
+What social platforms are we talking about? We might get information, for example, from Snapchat or Facebook if you choose to link your Tiny Talk account with these third-party platforms. Information they share with us includes certain details from your profile.
 
-We automatically collect certain information when you visit, use or navigate our products and services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about who and when you use our and other technical information. This information is primarily needed to maintain the security and operation of our services, and for our internal analytics and reporting purposes.
+We combine information. Tiny Talk is an integrated social media platform, which means we may combine information that we have collected across devices, such as computers and mobile devices. We may also combine information we get from a third party with information we already have and combine information that we have collected from other third-party sites.
 
-Like many businesses, we also collect information through cookies and similar technologies.
+When We Share Information
+Tiny Talk is part of the digital community, and as part of our business there are times that we share information with third parties. You can find out more about that here:
 
+Sharing on Tiny Talk. Tiny Talk is designed to let you join video chats. Other users may also be able to view your name, username, and top Connections (i.e., who you speak to most often). Connections can see when you were online last and a list of some of your other Connections.
 
-2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+Tiny Talk exists to help you connect with the people you care about most. When you connect with your friends, they can see some of the profile information you’ve created on Tiny Talk.
 
-In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
+We share information with our vendors. We may share information with trusted third parties, including companies who serve as our vendors and help us deliver our services and social media partners if you elect to use social media integration features. We may also share some information with companies that help operate our app or run a promotion.
 
-We may process or share your data that we hold based on the following legal basis:
-Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.
+We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information to respond to a court order or subpoena or if a U.S. or non-U.S. law enforcement agency, government agency, or investigatory body requests it. We may also share information we collect when we investigate potential fraud, abuse, or other similar violations of Tiny Talk rules and codes of conduct.
 
-Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
+We may share information with any successor to all or part of our business. If all or part of our business is sold, we’re part of a merger or acquisition, or there is a financing or bankruptcy, we may share information as part of that transaction.
 
-Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+We may also share information for other reasons we may describe to you or as permitted under law.
 
-Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+Your Choices
 
-Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved. More specifically, we may need to process your data or share your personal information in the following situations:
+You have certain choices about how we use your information. Those are described here:
 
-Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+You can opt out of certain marketing. To stop receiving our promotional emails or communications follow the instructions in any promotional message you get from us. If you opt out of getting marketing messages, you will continue to receive non-marketing messages from us about your relationship with us where permitted by law.
 
-Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
+You can control certain aspects of your interactions with others on Tiny Talk. Tiny Talk is meant to offer a fun way for people to interact with other people in ways similar to how you might in-person. However, your settings do give you certain controls over your video conversations, such as turning off your video during a chat.
 
-Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.
+You can control certain notifications settings. If you don't want to receive notifications when other users sort you into a group, you can do so in settings.
 
-Other Users. When you share personal information or otherwise interact with public areas of the , such personal information may be viewed by all users and may be publicly made available outside the in perpetuity. If you interact with other users of our and register for our through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our , and view your profile.
+You can control cookies and tracking tools. Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies.
 
+Our Do Not Track Policy: You may change your browser settings or take other steps to block, manage, or delete cookies. Not all of our websites and online services currently respond to browser “do not track” signals, so you will need to use your browser settings to effectively manage cookies. In some cases, blocking or disabling cookies may cause Tiny Talk not to work as intended and some features may not be available.
 
-3. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+You can control certain settings on your mobile device. For example, you can turn off push notifications on your phone. To modify the push notifications you get from us, you can change your preferences in Tiny Talk settings. You also can modify app level permissions, such as access to contacts, microphone or camera through your device settings.
 
-In Short:  We may use cookies and other tracking technologies to collect and store your information.
+You May Have Certain Additional Rights
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+In some places laws grant residents certain additional rights. We have described those rights in the relevant sections here:
 
+Read on to learn more about different rights we offer depending on your location. A lot of these rights have to do with your ability to ask us for more information. You can reach us using the contact information listed in the “contact us” section below.
 
-4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+European Residents. If you are an EEA, Swiss, or UK resident, you may have the right to access your information, the right to correct your information, the right to request deletion of your personal information, the right to request restricted processing of your personal information, the right to a portable copy of the personal information you have provided, and the right to object to processing of your personal information, such as for direct marketing. For more information about exercising these rights, send an email to support@tinytalk.io. EEA and UK residents also have the right to lodge a complaint with a data protection authority if they have concerns about our handling of personal information.
 
-In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
+California Residents. If you are a California resident and are not a job applicant, our employee, or employee of another company interacting with us in your job, you have the right to ask us what personal information we have collected and shared about you, the right to request deletion of your personal information, and the right not to be discriminated against for exercising any of these rights. For more information about exercising these rights, send an email to support@tinytalk.io.
 
-Our offers you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile Information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on such social media platform.
+Sale of information. We only use the personal information we collect to help provide, support, and improve Tiny Talk as described in this policy, and we do not “sell” this information to third parties as that term is defined by applicable laws.
 
-We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
+Children’s Privacy
 
+Tiny Talk is intended to be appropriate for general audiences and is not directed to children under the age of 13. We do not intentionally collect personal information from children under 13, and if we learn that we have unintentionally collected any such information, we will promptly take steps to delete it and terminate the child’s account. If you are under the age of 13, please do not use Tiny Talk or share your personal information with us. If you are the parent of a child under 13 and believe they may have provided us with personal information, you may alert us at support@tinytalk.io.
 
-5. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+How We Protect Information
 
-In Short:  We may transfer, store, and process your information in countries other than your own.
+We maintain appropriate administrative, technical, and physical safeguards to protect your personal information from accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use and other unlawful forms of processing. You should keep your user credentials and password confidential and secure so that your information is protected.
 
-Our servers are located in the United States, and we do utilize services from third party technology providers based in other countries. If you are accessing our from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WILL YOUR INFORMATION BE SHARED WITH ANYONE?" above).
+We work hard to protect your data, but the Internet is not 100% secure. We encourage you to use caution online. This includes not sharing or reusing your passwords and not accepting friend requests from strangers.
 
-If you are a resident in the European Economic Area, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law, including the GDPR where applicable.
+Transfers of Information
 
+Tiny Talk is based in the United States, which means the information we collect may be processed and stored within the United States. If you live outside of the United States and choose to use Tiny Talk, you understand that your information may be processed outside your country of residence, including in other jurisdictions (like the United States) that may have different data protection frameworks than your region. We keep personal information as long as it is necessary or relevant for the practices described in this policy and as otherwise required by law.
 
-6. HOW LONG DO WE KEEP YOUR INFORMATION?
+Information we transfer from Europe to the United States is subject to appropriate safeguards under applicable law.
 
-In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+Third-Party Sites
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than 60 days following the closure of an account.
+We may link to third-party sites or apps. Tiny Talk may also include third-party content that collects information. We do not control these third parties. This policy does not apply to the privacy practices of these third-party websites or apps. Please read the privacy policies of other websites carefully. We are not responsible for the practices of these third-party sites or apps.
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+How To Contact Us
 
-We will also make every effort to delete all applicable account data, including personally identifying data upon request from a user of our products services within 30 days of receiving a request. Your data belongs to you.
+To learn more about our privacy practices or this policy, please contact us at support@tinytalk.io. If you are in the EU and have any questions about this Policy, please email us at support@tinytalk.io.
 
+Updates
 
-7. DO WE COLLECT INFORMATION FROM MINORS?
-
-In Short:  We do not knowingly collect data from or market to children under 18 years of age.
-
-We do not knowingly solicit data from or market to children under 18 years of age. By using our products and services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the products or services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at support@tinytalk.io.
-
-
-8. WHAT ARE YOUR PRIVACY RIGHTS?
-
-In Short:  You may review, change, or terminate your account at any time.
-
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
-
-If you are resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
-
-Account Information:
-
-If you would at any time like to review or change the information in your account or terminate your account, you can:
-
-Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with applicable legal requirements.
-
-Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we may still communicate with you, for example to send you service-related emails that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes. To otherwise opt-out, you may contact us at support@tinytalk.io.
-
-
-9. CONTROLS FOR DO-NOT-TRACK FEATURES
-
-Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
-
-
-10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-
-In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
-
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
-
-If you are under 18 years of age, reside in California, and have a registered account with us, you have the right to request removal of unwanted data that you publicly post on our services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. backups, etc.).
-
-
-11. DO WE MAKE UPDATES TO THIS NOTICE?
-
-In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
-
-We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
-
-
-12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-
-If you have questions or comments about this notice, you may email us at support@tinytalk.io.
-
-HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request to support@tinytalk.io. We will respond to your request within 30 days.
-
+Things change. The world evolves. Here at Tiny Talk, we want to keep current with the times. This might mean that our practices will change. We will notify you of any material changes to our policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
 {% include footer.html %}
