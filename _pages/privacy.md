@@ -12,7 +12,7 @@ The Tiny Talk Privacy Policy is designed to help you understand the information 
 
 This policy applies to your use of Tiny Talk. By "Tiny Talk,” we mean the Tiny Talk website, mobile app, and any other of our products and services that directly link to this policy.
 
-And who are we? We’re Tiny Talk Inc. To learn more about privacy at Tiny Talk, please keep reading below! If you'd like to read our Terms of Service.
+And who are we? We’re Tiny Talk Inc. To learn more about privacy at Tiny Talk, please keep reading below! If you'd like to read our <a href= "https://tinytalk.io/terms"> Terms of Service </a>.
 
 What Information We Collect
 
