@@ -10,152 +10,223 @@ include_in_header: false
 <h6>Last updated August 13, 2020</h6>
 
 
-AGREEMENT TO TERMS
+These Terms of Service (“Terms”) are between you and Tiny Talk Inc. (“Tiny Talk”). These Terms govern your access to and use of our Tiny Talk services, including our Tiny Talk mobile applications (“Apps”), our websites, including the website located at http://tinytalk.io (collectively, the “Services”).
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Tiny Talk Inc. ("Company", “we”, “us”, or “our”), concerning your access to and use of the Tiny Talk Inc. website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+ARBITRATION NOTICE: UNLESS YOU OPT OUT OF ARBITRATION WITHIN 30 DAYS OF THE DATE YOU FIRST AGREE TO THESE TERMS BY FOLLOWING THE OPT-OUT PROCEDURE SPECIFIED IN SECTION 12 (“DISPUTE RESOLUTION”), AND EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN SECTION 12, YOU AGREE THAT DISPUTES BETWEEN YOU AND TINY TALK WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU ARE WAIVING YOUR RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING.
 
-Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
+1. Basic Terms
 
-The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+Eligibility
 
+You may use the Services only if you can form a binding contract with Tiny Talk and are not a person barred from receiving services under the laws of the United States or other applicable jurisdiction. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so. You may use the Services only in compliance with these Terms and all applicable local, state, national, and international laws, rules and regulations.
 
-INTELLECTUAL PROPERTY RIGHTS
+Agreement to Terms
 
-Unless otherwise indicated, the Site are our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, international copyright laws, and international conventions. The Content and the Marks are provided on the Site “AS IS” for your information and personal use only. Except as expressly provided in these Terms of Use, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+Your access to and use of the Services is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms. The Services that Tiny Talk provides are always evolving and the form and nature of the Services may change from time to time without prior notice to you. In addition, Tiny Talk may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally and may not be able to provide you with prior notice. We also retain the right to create limits on use and storage at our sole discretion at any time without prior notice to you.
 
-Provided that you are eligible to use the Site, you are granted a limited license to access and use the Site and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Site, the Content and the Marks.
+Registration
 
+If you want to use certain features of the Services you’ll have to create an account and become a registered user (“User”). It’s important that you provide us with accurate, complete and up-to-date information for your account and you agree to update such information, as needed, to keep it accurate, complete and up-to-date. If you don’t, we might have to suspend or terminate your account. We reserve the right to force forfeiture of any username for any reason.
 
-USER REPRESENTATIONS
+You are responsible for safeguarding the password or credentials that you use to access the Services and for any activities or actions under your account. We encourage you to use “strong” passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Tiny Talk cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements. You’re responsible for all activities that occur under your account, whether or not you know about them.
 
-By using the Site, you represent and warrant that:  (1) you have the legal capacity and you agree to comply with these Terms of Use; (2) you are not a minor in the jurisdiction in which you reside; (3) you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise; (4) you will not use the Site for any illegal or unauthorized purpose; and (5) your use of the Site will not violate any applicable law or regulation.
+Advertisements
 
-If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).
+The Services may include advertisements, which may be targeted to the content or information on the Services, queries made through the Services, or other information. The types and extent of advertising by Tiny Talk on the Services are subject to change. In consideration for Tiny Talk granting you access to and use of the Services, you agree that Tiny Talk and its subsidiary, third party providers and partners may place such advertising on the Services or in connection with the display of content or information from the Services whether submitted by you or others.
 
+2. Privacy
 
-PROHIBITED ACTIVITIES
+Any information that you provide to Tiny Talk is subject to our Privacy Policy, which governs our collection and use of your information. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Tiny Talk.
 
-You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+As part of providing you the Services, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your account, which you may not be able to opt-out from receiving.
 
-As a user of the Site, you agree not to:
+3. Using the Services
 
+The Services enable you to participate in group video chats with and send messages to other Users. When you use the App, you will be able to join a video chat with a User with whom you are connected on the Services (each a “Connection”). You can add Connections by inviting them to connect on the Services.
 
+Contacts
 
-USER GENERATED CONTRIBUTIONS
+If you choose to import your personal contacts from your mobile device we will access your personal contacts in order to identify Users that you may know that are using the Services and to provide other Users with suggestions for potential Connections based on mutual contacts.
 
-The Site does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated in accordance with the Site Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:
+Invitations
 
-1.  The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-2.  You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms of Use.
-3.  You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms of Use.
-4.  Your Contributions are not false, inaccurate, or misleading.
-5.  Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-6.  Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
-7.  Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-8.  Your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
-9.  Your Contributions do not violate any applicable law, regulation, or rule.
-10.  Your Contributions do not violate the privacy or publicity rights of any third party.
-11.  Your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
-12.  Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
-13.  Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-14.  Your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Use, or any applicable law or regulation.
+We may offer you the opportunity to invite your Connections or other contacts to join your group video chats or otherwise enjoy the Services. If you choose to invite one or more of your Connections or contacts using text messaging (SMS) or another communications app we may suggest content for the message (which you may be able to edit in certain instances). You may send invitations via the messaging functionality on your device or through text messages generated by the Services. If you choose to send such invitations, you represent to Tiny Talk that the recipients of such invitations have consented to receive such messages from you, and that those recipients do not consider such messages unwanted or unsolicited.
 
-Any use of the Site in violation of the foregoing violates these Terms of Use and may result in, among other things, termination or suspension of your rights to use the Site.
+4. Content On the Services
 
+For purposes of these Terms: (i) “Content” means text, graphics, images, music, software, audio, video, works of authorship of any kind, and information or other materials that are posted, generated, provided or otherwise made available through the Services; and (ii) “User Content” means any Content that you provide or import to be made available through the Services. Content includes, without limitation, User Content.
 
-CONTRIBUTION LICENSE
+All Content, whether publicly posted or privately transmitted, is the sole responsibility of the person who originated such Content. We may, but are not required to monitor or control the Content posted via the Services and we cannot take responsibility for such Content. Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk.
 
-You and the Site agree that we may access, store, process, and use any information and personal data that you provide following the terms of the Privacy Policy and your choices (including settings).
+We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. Under no circumstances will Tiny Talk be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcast elsewhere.
 
-By submitting suggestions or other feedback regarding the Site, you agree that we can use and share such feedback for any purpose without compensation to you.
+5. Rights in the Services and Content
 
-We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site. You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
+Ownership
 
+Tiny Talk does not claim any ownership rights in any User Content. You retain your rights to any User Content you submit, post or display on or through the Services. Subject to your ownership of your User Content, all right, title, and interest in and to the Services and Content are and will remain the exclusive property of Tiny Talk and its licensors (including other Users). The Services are protected by copyright, trademark, and other laws of both the United States and foreign countries. Tiny Talk reserves all rights not expressly granted in these Terms.
 
-SUBMISSIONS
+Rights in Content Granted by You
 
-You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you. You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
+In order to make the Services available to you and other Users, Tiny Talk needs a license from you. By submitting, posting or displaying User Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed). Notwithstanding the foregoing and any other provision in these Terms, the content of your video chat sessions will only be used by us for the purpose of providing you the Services and for no other purpose.
 
+We may modify or adapt your Content in order to transmit, display or distribute it over computer networks and in various media and/or make changes to your Content as are necessary to conform and adapt that Content to any requirements or limitations of any networks, devices, services or media.
 
-SITE MANAGEMENT
+You are responsible for your use of the Services, for any User Content you provide, and for any consequences thereof, including the use of your User Content by other Users with whom you participate in a group video chat. You should only provide User Content that you are comfortable sharing with others under these Terms. Tiny Talk will not be responsible or liable for any use of your User Content by Tiny Talk in accordance with these Terms. You represent and warrant that you have all the rights, power and authority necessary to grant the rights granted herein to any User Content that you submit. You also represent and warrant that neither your User Content, nor your use and provision of your User Content to be made available through the Services, nor any use of your User Content by Tiny Talk on or through the Services will infringe, misappropriate or violate a third party’s intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
 
-We reserve the right, but not the obligation, to: (1) monitor the Site for violations of these Terms of Use; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
+Rights in Content Granted by Tiny Talk
 
+Subject to your compliance with these Terms, Tiny Talk grants you a limited, non-exclusive, non-transferable license to access and view the Content posted by other Users via the Services solely in connection with your permitted use of the Services and solely for your personal and non-commercial purposes.
 
-TERM AND TERMINATION
+Feedback
 
-These Terms of Use shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
+You acknowledge and agree that any feedback, comments, or suggestions you may provide regarding Tiny Talk, or the Services is entirely voluntary and we will be free to use such feedback, comments or suggestions as we see fit and without any obligation to you.
 
-If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
+6. Tiny Talk Rights
 
+Rights in App Granted by Tiny Talk
 
-MODIFICATIONS AND INTERRUPTIONS
+Subject to your compliance with these Terms, Tiny Talk grants you a limited non-exclusive, non-transferable, non-sublicensable license to download and install a copy of the App on any mobile device or computer that you own or control and to run such copy of the App solely for your own personal, non-commercial purposes. You may not copy the App, except for making a reasonable number of copies for backup or archival purposes. Except as expressly permitted in these Terms, you may not: (i) copy, modify or create derivative works based on the App; (ii) distribute, transfer, sublicense, lease, lend or rent the App to any third party; (iii) reverse engineer, decompile or disassemble the App; or (iv) make the functionality of the App available to multiple users through any means. Tiny Talk reserves all rights in and to the App not expressly granted to you under these Terms.
 
-We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.  
+Additional Terms for App Store Apps
 
-We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
+If you accessed or downloaded the App from the Apple App Store, then you agree to use the App only: (i) on an Apple-branded product or device that runs iOS (Apple’s proprietary operating system software); and (ii) as permitted by the “Usage Rules” set forth in the Apple Store Terms of Service.
 
+If you accessed or downloaded the App from any app store or distribution platform (like the Apple App Store or Google Play) (each, an “App Provider”), then you acknowledge and agree that:
 
-GOVERNING LAW
+These Terms are concluded between you and Tiny Talk, and not with App Provider, and that, as between Tiny Talk and the App Provider, Tiny Talk, is solely responsible for the App.
 
-These Terms shall be governed by and defined following the laws of Colorado. Tiny Talk Inc. and yourself irrevocably consent that the courts of Colorado shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
+App Provider has no obligation to furnish any maintenance and support services with respect to the App.
 
+In the event of any failure of the App to conform to any applicable warranty, you may notify App Provider and App Provider will refund the purchase price for the App to you (if applicable) and, to the maximum extent permitted by applicable law, App Provider will have no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to any failure of an App to conform to any warranty will be the sole responsibility of Tiny Talk.
 
-DISPUTE RESOLUTION
+App Provider is not responsible for addressing any claims you have or any claims of any third party relating to the App or your possession and use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
 
-Binding Arbitration
+In the event of any third-party claim that the App or your possession and use of the App infringes that third party’s intellectual property rights, Tiny Talk will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by these Terms.
 
-Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by the International Commercial Arbitration Court under the European Arbitration Chamber (Belgium, Brussels, Avenue Louise, 146) according to the Rules of this ICAC, which, as a result of referring to it, is considered as the part of this clause. The number of arbitrators shall be (3). The seat, or legal place, of arbitration shall be at the sole discretion of Tiny Talk Inc. The language of the proceedings shall be English. The governing law of the contract shall be the substantive law of New York State.
+App Provider and its subsidiaries are third-party beneficiaries of these Terms as related to your license of the App, and that, upon your acceptance of the terms and conditions of these Terms, App Provider will have the right (and will be deemed to have accepted the right) to enforce these Terms as related to your license of the App against you as a third party beneficiary thereof.
 
-Restrictions
+You must also comply with all applicable third-party terms of service when using the App.
 
-The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a class-action basis or to utilize class action procedures; and (c) there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons.
+You agree to comply with all U.S. and foreign export laws and regulations to ensure that neither the App nor any technical data related thereto nor any direct product thereof is exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. By using the App you represent and warrant that: (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
 
-Exceptions to Arbitration
+7. Restrictions On Content And Use Of The Services
 
-The Parties agree that the following Disputes are not subject to the above provisions concerning binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services and to suspend and or terminate Users or reclaim usernames without liability to you.
 
+You may NOT post Content that:
 
-CORRECTIONS
+- Impersonates another person or entity in a manner that does or is intended to mislead, confuse, or deceive others;
+- Violates the rights of a third party, including copyright, trademark, privacy, and publicity rights;
+- Promotes discrimination, hatred or harm against any individual or group;
+- Is a direct and specific threat of violence to others;
+- Is defamatory, obscene or pornographic;
+- Is furtherance of illegal activities; or
+- Is harassing, abusive, or constitutes spam.
 
-There may be information on the Site that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.
+We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to User support requests, or (v) protect the rights, property or safety of Tiny Talk, its Users and the public. Tiny Talk does not disclose personally identifying information to third parties except in accordance with our Privacy Policy.
 
+You may not do any of the following while accessing or using the Services:
 
-DISCLAIMER
+- access, tamper with, or use non-public areas of the Services, Tiny Talk’s computer systems, or the technical delivery systems of Tiny Talk providers;
+probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures;
+- access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Tiny Talk (and only pursuant to those terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Tiny Talk (NOTE: scraping the Services without the prior consent of Tiny Talk is expressly prohibited);
+- forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information;
+- interfere with, or disrupt, (or attempt to do so), the access of any User, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.
+- use, display, mirror or frame the Services or any individual element within the Services, Tiny Talk’s name, any Tiny Talk trademark, logo or other proprietary information, or the layout and design of any page or form contained on a page, without Tiny Talk’s express written consent;
+- avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Tiny Talk or any of Tiny Talk’s providers or any other third party (including another User) to protect the Services or Content;
+- attempt to access or search the Services or Content or download Content from the Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Tiny Talk or other generally available third-party web browsers;
+- send any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation;
+- use any meta tags or other hidden text or metadata utilizing a Tiny Talk trademark, logo URL or product name without Tiny Talk’s express written consent;
+- use the Services or Content, or any portion thereof, for any commercial purpose or for the benefit of any third party or in any manner not permitted by these Terms;
+- attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Services or Content;
+- collect or store any personally identifiable information from the Services from other Users of the Services without their express permission;
+- violate any applicable law or regulation; or
+- encourage or enable any other individual to do any of the foregoing.
 
-THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+8. DMCA/Copyright Policy
 
+Tiny Talk respects copyright law and expects its Users to do the same. It is Tiny Talk’s policy to terminate in appropriate circumstances Users who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders.
 
-LIMITATIONS OF LIABILITY
+9. Ending These Terms
 
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE LESSER OF THE AMOUNT PAID, IF ANY, BY YOU TO US OR $1 USD. CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+The Terms will continue to apply until terminated by either you or Tiny Talk as follows. You may end your legal agreement with Tiny Talk at any time for any reason by deactivating your account and discontinuing your use of the Services. In order to deactivate your account, please contact us support@tinytalk.io.
 
+We may suspend or terminate your account or cease providing you with all or part of the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or through the Services the next time you attempt to access your account. In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: 4, 5, 7, 8, 9, 10, 11, 12 and 13.
 
-INDEMNIFICATION
+Nothing in this section shall affect Tiny Talk’s rights to change, limit or stop the provision of the Services without prior notice, as provided above in Section 1.
 
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) use of the Site; (2) breach of these Terms of Use; (3) any breach of your representations and warranties set forth in these Terms of Use; (4) your violation of the rights of a third party, including but not limited to intellectual property rights; or (5) any overt harmful act toward any other user of the Site with whom you connected via the Site. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
+10. Indemnity
 
+You will indemnify and hold harmless Tiny Talk and its officers, directors, employee and agents, from and against any claims, disputes, demands, liabilities, damages, losses, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (i) your access to or use of the Services or Content, (ii) your User Content, or (iii) your violation of these Terms.
 
-USER DATA
+11. Disclaimers And Limitations Of Liability
 
-We will maintain certain data that you transmit to the Site for the purpose of managing the performance of the Site, as well as data relating to your use of the Site. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Site. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data. For details regarding our policies related to user data collection, management and deletion, see our Privacy Policy.
+Please read this section carefully since it limits the liability of Tiny Talk and its parents, subsidiaries, affiliates, related companies, officers, directors, employees, agents, representatives, partners, and licensors (collectively, the “Tiny Talk Entities”). Each of the subsections below only applies up to the maximum extent permitted under applicable law. Some jurisdictions do not allow the disclaimer of implied warranties or the limitation of liability in contracts, and as a result the contents of this section may not apply to you. Nothing in this section is intended to limit any rights you may have which may not be lawfully limited.
 
+The Services are Available “AS-IS”
 
-ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+Your access to and use of the Services or any Content is at your own risk. You understand and agree that the Services is provided to you on an “AS IS” and “AS AVAILABLE” basis. Without limiting the foregoing, Tiny Talk ENTITIES DISCLAIM ALL WARRANTIES AND CONDITIONS, WHETHER EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
-Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.
+Tiny Talk Entities make no warranty and disclaim all responsibility and liability for: (i) the completeness, accuracy, availability, timeliness, security or reliability of the Services or any Content; (ii) any harm to your computer system, loss of data, or other harm that results from your access to or use of the Services, or any Content (including without limitation any unlawful use of the Services); (iii) the deletion of, or the failure to store or to transmit, any Content and other communications maintained by the Services; (iv) whether the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from Tiny Talk Entities or through the Services, will create any warranty not expressly made herein.
 
+Links
 
-MISCELLANEOUS
+The Services may contain links to third-party websites or resources. You acknowledge and agree that we are not responsible or liable for: (i) the availability or accuracy of such websites or resources; or (ii) the content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by Tiny Talk Entities of such websites or resources or the content, products, or services available from such websites or resources. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources.
 
-These Terms of Use and any policies or operating rules posted by us on the Site or in respect to the Site constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
+Limitation of Liability
 
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TINY TALK ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES; (iii) ANY CONTENT OBTAINED FROM THE SERVICES; OR (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT.
 
-CONTACT US
+IN NO EVENT SHALL THE AGGREGATE LIABILITY OF THE TINY TALK ENTITIES EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS (U.S. $100.00) OR THE AMOUNT YOU PAID TINY TALK, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM. THE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, AND WHETHER OR NOT THE TINY TALK ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:
+12. Dispute Resolution
 
-support@tinytalk.io
+Governing Law
+
+These Terms and any action related thereto will be governed by the laws of the State of California without regard to its conflict of laws provisions.
+
+Agreement to Arbitrate
+
+You and Tiny Talk agree that any dispute, claim or controversy arising out of or relating to these Terms or the breach, termination, enforcement, interpretation or validity thereof or the use of the Services or Content (collectively, “Disputes”) will be settled by binding arbitration, except that each party retains the right: (i) to bring an individual action in small claims court (a “Small Claims Action”) and (ii) to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of a party’s copyrights, trademarks, trade secrets, patents or other intellectual property rights (an “IP Protection Action”). The exclusive jurisdiction and venue of any IP Protection Action will be the state and federal courts located in the Northern District of California and each of the parties hereto waives any objection to jurisdiction and venue in such courts. Unless you timely provide Tiny Talk with an Arbitration Opt-out Notice (as defined below in the Section titled “Your Choices”), you acknowledge and agree that you and Tiny Talk are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action or representative proceeding. Further, unless both you and Tiny Talk otherwise agree in writing, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of any class or representative proceeding. If this specific paragraph is held unenforceable, then the entirety of this “Dispute Resolution” section will be deemed void. Except as provided in the preceding sentence, this “Dispute Resolution” section will survive any termination of these Terms.
+
+Arbitration Rules
+
+The arbitration will be administered by the American Arbitration Association (“AAA”) in accordance with the Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes (the “AAA Rules”) then in effect, except as modified by this “Dispute Resolution” section. (The AAA Rules are available at https://www.adr.org/mediation or by calling the AAA at 1–800–778–7879.) The Federal Arbitration Act will govern the interpretation and enforcement of this Section.
+
+Arbitration Process
+
+A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the AAA Rules. (The AAA provides a form Demand for Arbitration.) The arbitrator will be either a retired judge or an attorney licensed to practice law and will be selected by the parties from the AAA’s roster of arbitrators. If the parties are unable to agree upon an arbitrator within seven (7) days of delivery of the Demand for Arbitration, then the AAA will appoint the arbitrator in accordance with the AAA Rules.
+
+Arbitration Location and Procedure
+
+Unless you and Tiny Talk otherwise agree, the arbitration will be conducted in the county where you reside. If your claim does not exceed $10,000, then the arbitration will be conducted solely on the basis of the documents that you and Tiny Talk submit to the arbitrator, unless you request a hearing or the arbitrator determines that a hearing is necessary. If your claim exceeds $10,000, your right to a hearing will be determined by the AAA Rules. Subject to the AAA Rules, the arbitrator will have the discretion to direct a reasonable exchange of information by the parties, consistent with the expedited nature of the arbitration.
+
+Arbitrator’s Decision
+
+The arbitrator will render an award within the time frame specified in the AAA Rules. The arbitrator’s decision will include the essential findings and conclusions upon which the arbitrator based the award. Judgment on the arbitration award may be entered in any court having jurisdiction thereof. The arbitrator’s award of damages must be consistent with the terms of the “Limitation of Liability” section above as to the types and amounts of damages for which a party may be held liable. The arbitrator may award declaratory or injunctive relief only in favor of the claimant and only to the extent necessary to provide relief warranted by the claimant’s individual claim. If you prevail in arbitration you will be entitled to an award of attorneys’ fees and expenses, to the extent provided under applicable law. Tiny Talk will not seek, and hereby waives all rights it may have under applicable law to recover, attorneys’ fees and expenses if it prevails in arbitration.
+
+Fees
+
+Your responsibility to pay any AAA filing, administrative and arbitrator fees will be solely as set forth in the AAA Rules. However, if your claim for damages does not exceed $75,000, Tiny Talk will pay all such fees unless the arbitrator finds that either the substance of your claim or the relief sought in your Demand for Arbitration was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)).
+
+Changes
+
+Notwithstanding the provisions of the “General Terms” section below regarding changes to these Terms, if Tiny Talk changes this “Dispute Resolution” section after the date you first accepted these Terms (or accepted any subsequent changes to these Terms), you may reject any such change by sending us written notice (including by email to hello@Tiny Talk.com within 30 days of the date such change became effective, as indicated in the “Last Updated” date above or in the date of Tiny Talk’s email to you notifying you of such change. By rejecting any change, you are agreeing that you will arbitrate any Dispute between you and Tiny Talk in accordance with the provisions of this “Dispute Resolution” section as of the date you first accepted these Terms (or accepted any subsequent changes to these Terms).
+
+Your Choices
+
+If you don’t want to settle Disputes by arbitration as described above, you will notify Tiny Talk by sending us written notice (including by email to hello@Tiny Talk.com telling us that you don’t want to use arbitration, within thirty (30) days of the date on which you agreed to these Terms (such notice, an “Arbitration Opt-out Notice”), and consequently you agree that all Disputes will be resolved exclusively by a court located in San Francisco, California. If you don’t provide Tiny Talk with an Arbitration Opt-out Notice within the thirty (30) day period, you will be deemed to have knowingly and intentionally waived your right to litigate any dispute except for a Small Claims Action and an IP Protection Action as set forth above.
+
+13. General Terms
+
+The failure of Tiny Talk to enforce any right or provision of these Terms will not be deemed a waiver of such right or provision. In the event that any provision of these Terms is held to be invalid or unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions of these Terms will remain in full force and effect. Tiny Talk’s failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Tiny Talk. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise. You may not assign or transfer these Terms, by operation of law or otherwise, without Tiny Talk’s prior written consent. Any attempt by you to assign or transfer these Terms, without such consent, will be null. Tiny Talk may freely assign or transfer these Terms without restriction. Subject to the foregoing, these Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
+
+Any notices or other communications provided by Tiny Talk under these Terms, including those regarding modifications to these Terms, will be given: (i) via email; or (ii) by posting to the Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted. These Terms and our Privacy Policy are the entire and exclusive agreement between Tiny Talk and you regarding the Services (excluding any services for which you have a separate agreement with Tiny Talk that is explicitly in addition or in place of these Terms), and these Terms supersede and replace any prior agreements between Tiny Talk and you regarding the Services and Content.
+
+We may revise these Terms from time to time; the most current version will always be at https://tinytalk.io/terms. If the revision, in our sole discretion, is material we will notify you via email to the email associated with your account or through the Services. If you do not wish to be bound by any such revisions to the Terms, you must end these Terms with us as set forth in Section 9 above. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
+
+These Services are operated and provided by Tiny Talk. If you have any questions about these Terms, please contact us at: support@tinytalk.io.
 
 
 {% include footer.html %}
