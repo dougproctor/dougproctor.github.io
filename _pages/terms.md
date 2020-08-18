@@ -7,7 +7,7 @@ include_in_header: false
 <h2>TERMS OF SERVICE</h2>
 
 
-<h6>Last updated August 13, 2020</h6>
+<h6>Last updated August 17, 2020</h6>
 
 
 These Terms of Service (“Terms”) are between you and Tiny Talk Inc. (“Tiny Talk”). These Terms govern your access to and use of our Tiny Talk services, including our Tiny Talk mobile applications (“Apps”), our websites, including the website located at http://tinytalk.io (collectively, the “Services”).
