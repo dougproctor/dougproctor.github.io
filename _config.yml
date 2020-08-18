@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/tinytalk.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Tiny Talk                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Tiny Talk is a semi-social media app focused on creating meaningful, human to human connections through short, randomly coordinated video chats with your contacts.
+app_description                           : Tiny Talk is a semi-social media app focused on creating meaningful, 1:1 connections through short, randomly coordinated video chats with your friends.
 app_description2                          : It's like Chat Roulette, but with your friends.
 
 
