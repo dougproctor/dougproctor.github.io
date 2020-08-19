@@ -12,9 +12,11 @@ The Tiny Talk Privacy Policy is designed to help you understand the information 
 
 This policy applies to your use of Tiny Talk. By "Tiny Talk,” we mean the Tiny Talk website, mobile app, and any other of our products and services that directly link to this policy.
 
-And who are we? We’re Tiny Talk LLC. To learn more about privacy at Tiny Talk, please keep reading below! If you'd like to read our <a href= "https://tinytalk.io/terms"> Terms of Service </a>.
+**And who are we?**
 
-What Information We Collect
+We’re Tiny Talk LLC. To learn more about privacy at Tiny Talk, please keep reading below! If you'd like to read our <a href= "https://tinytalk.io/terms"> Terms of Service </a>.
+
+**What Information We Collect**
 
 You probably wonder what information we collect. This often depends on the exact nature of our relationship with you and how you choose to use Tiny Talk, but we’ve described the most common examples below. We have broken these descriptions down into categories to make them clearer:
 
@@ -32,7 +34,7 @@ We collect feedback information. We collect information that you give us when yo
 
 We collect device information. We collect information about the browser or device you are using. We may look at what site you came from, or what site you visit when you leave us. We may also collect device identifiers. For example, this might include your operating system and hardware model. This may also include your mobile carrier.
 
-Why We Collect Information
+**Why We Collect Information**
 
 Now that you know what we collect, we want to tell you why and what we do with that information. Below we explain how we use information:
 
@@ -56,7 +58,7 @@ Our basis for processing European information. Our basis for processing your inf
 
 We also use information as otherwise permitted by law.
 
-How We Collect Information
+**How We Collect Information**
 
 Like many other companies, there are different ways that we collect information, which we’ve outlined below:
 
@@ -72,7 +74,8 @@ What social platforms are we talking about? We might get information, for exampl
 
 We combine information. Tiny Talk is an integrated social media platform, which means we may combine information that we have collected across devices, such as computers and mobile devices. We may also combine information we get from a third party with information we already have and combine information that we have collected from other third-party sites.
 
-When We Share Information
+**When We Share Information**
+
 Tiny Talk is part of the digital community, and as part of our business there are times that we share information with third parties. You can find out more about that here:
 
 Sharing on Tiny Talk. Tiny Talk is designed to let you join video chats. Other users may also be able to view your name, username, and top Connections (i.e., who you speak to most often). Connections can see when you were online last and a list of some of your other Connections.
@@ -87,7 +90,7 @@ We may share information with any successor to all or part of our business. If a
 
 We may also share information for other reasons we may describe to you or as permitted under law.
 
-Your Choices
+**Your Choices**
 
 You have certain choices about how we use your information. Those are described here:
 
@@ -103,7 +106,7 @@ Our Do Not Track Policy: You may change your browser settings or take other step
 
 You can control certain settings on your mobile device. For example, you can turn off push notifications on your phone. To modify the push notifications you get from us, you can change your preferences in Tiny Talk settings. You also can modify app level permissions, such as access to contacts, microphone or camera through your device settings.
 
-You May Have Certain Additional Rights
+**You May Have Certain Additional Rights**
 
 In some places laws grant residents certain additional rights. We have described those rights in the relevant sections here:
 
@@ -115,31 +118,31 @@ California Residents. If you are a California resident and are not a job applica
 
 Sale of information. We only use the personal information we collect to help provide, support, and improve Tiny Talk as described in this policy, and we do not “sell” this information to third parties as that term is defined by applicable laws.
 
-Children’s Privacy
+**Children’s Privacy**
 
 Tiny Talk is intended to be appropriate for general audiences and is not directed to children under the age of 13. We do not intentionally collect personal information from children under 13, and if we learn that we have unintentionally collected any such information, we will promptly take steps to delete it and terminate the child’s account. If you are under the age of 13, please do not use Tiny Talk or share your personal information with us. If you are the parent of a child under 13 and believe they may have provided us with personal information, you may alert us at support@tinytalk.io.
 
-How We Protect Information
+**How We Protect Information**
 
 We maintain appropriate administrative, technical, and physical safeguards to protect your personal information from accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use and other unlawful forms of processing. You should keep your user credentials and password confidential and secure so that your information is protected.
 
 We work hard to protect your data, but the Internet is not 100% secure. We encourage you to use caution online. This includes not sharing or reusing your passwords and not accepting friend requests from strangers.
 
-Transfers of Information
+**Transfers of Information**
 
 Tiny Talk is based in the United States, which means the information we collect may be processed and stored within the United States. If you live outside of the United States and choose to use Tiny Talk, you understand that your information may be processed outside your country of residence, including in other jurisdictions (like the United States) that may have different data protection frameworks than your region. We keep personal information as long as it is necessary or relevant for the practices described in this policy and as otherwise required by law.
 
 Information we transfer from Europe to the United States is subject to appropriate safeguards under applicable law.
 
-Third-Party Sites
+**Third-Party Sites**
 
 We may link to third-party sites or apps. Tiny Talk may also include third-party content that collects information. We do not control these third parties. This policy does not apply to the privacy practices of these third-party websites or apps. Please read the privacy policies of other websites carefully. We are not responsible for the practices of these third-party sites or apps.
 
-How To Contact Us
+**How To Contact Us**
 
 To learn more about our privacy practices or this policy, please contact us at support@tinytalk.io. If you are in the EU and have any questions about this Policy, please email us at support@tinytalk.io.
 
-Updates
+**Updates**
 
 Things change. The world evolves. Here at Tiny Talk, we want to keep current with the times. This might mean that our practices will change. We will notify you of any material changes to our policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
