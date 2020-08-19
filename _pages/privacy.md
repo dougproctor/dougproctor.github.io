@@ -6,7 +6,7 @@ include_in_header: false
 
 <h2>PRIVACY POLICY</h2>
 
-<h6>Last updated August 17, 2020</h6>
+<h6>Last updated August 19, 2020</h6>
 
 The Tiny Talk Privacy Policy is designed to help you understand the information we collect and the different ways we may use or share it.
 
