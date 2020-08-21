@@ -10,7 +10,7 @@ include_in_header: true
 
 <h3>What is Tiny Talk?</h3>
 
-> Tiny Talk is a mobile app that aims to bring back the social serendipity of everyday life in the post-COVID world. From time to time, Tiny Talk will invite you to join a seven-minute, randomly coordinated video chat with one of your contacts that you've pre-approved. It's like Chat Roulette, but with your friends (and not creepy).
+> Tiny Talk is a mobile app that aims to bring back the social serendipity of everyday life in the post-COVID world. From time to time, Tiny Talk will invite you to join a seven-minute, randomly coordinated video chat with one of your contacts that you've approved.
 
 <h3>How does it work?</h3>
 
@@ -33,7 +33,7 @@ include_in_header: true
 
 <h3>How do I get Tiny Talk?</h3>
 
-> Tiny Talk is available for iOS and Android devices on the Apple App Store and the Google Play store. Access is currently limited, but <a href ="https://tinytalk.io/signup"> sign up </a> now for an exclusive invite which you can share with your friends.
+> Tiny Talk is available for download on iOS and Android devices on the Apple App Store and the Google Play Store. Access is currently limited, but <a href ="https://tinytalk.io/signup"> sign up </a> now for an exclusive invite which you can share with your friends.
 
 <h3>Can other users see when I block or sort them into a group?</h3>
 
