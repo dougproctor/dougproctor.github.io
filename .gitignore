@@ -2,3 +2,6 @@
 .sass-cache
 _site
 Gemfile.lock
+_pages/news.md
+assets/headerimage2.jpg
+_config.yml

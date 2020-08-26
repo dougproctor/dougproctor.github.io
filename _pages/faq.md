@@ -4,7 +4,7 @@ title: FAQ
 include_in_header: true
 ---
 
-<h2>Tiny Talk Frequently Asked Questions</h2>
+# Frequently Asked Questions (FAQ)
 
 <br>
 
@@ -33,19 +33,19 @@ include_in_header: true
 
 <h3>How do I get Tiny Talk?</h3>
 
-> Tiny Talk is available for download on iOS and Android devices on the Apple App Store and the Google Play Store. Access is currently limited, but <a href ="https://tinytalk.io/signup"> sign up </a> now for an exclusive invite which you can share with your friends.
+> Tiny Talk is available for download on iOS on the <a href=""> Apple App Store </a> and for Android on the <a href=""> Google Play Store </a>.
 
 <h3>Can other users see when I block or sort them into a group?</h3>
 
-> Other users will not be able to tell that you have blocked them -- you will simply never match with a blocked user. Similarly, other users will not know what group you've sorted them into.
+> Nope! Other users never know if you've blocked them. When you block a user, it simply means you'll never match with them for a Tiny Talk. Similarly, other users will never if you've sorted them into a group or the specific name of the group you've sorted them into.
 
 <h3>Why don't I see one of my contacts in my "stack" of people to sort?</h3>
 
-> Your "stack" is generated based on those of your phone contacts that have registered for Tiny Talk. If one of your contacts does not show up in your "stack," it is because they have not registered for Tiny Talk with a phone number in your contacts. **Invite friends** to join to expand the set of people you can connect with on Tiny Talk!
+> Your "stack" is generated based on those of your phone contacts  that have registered for Tiny Talk. If one of your contacts does not show up in your "stack" (e.g. you're not able to sort them), it is because they have not registered for Tiny Talk or the number they registered with is not in your phone's contacts. Invite friends to join to expand the set of people you can connect with on Tiny Talk!
 
 <h3>How do I share Tiny Talk with my friends?</h3>
 
-> Once you've secured an exclusive early invite to use Tiny Talk, you can share Tiny Talk with your friends in the app.
+> You can invite friends to Tiny Talk by pressing the "Invite" button in the top-right of the app.
 
 <h3>Will other users see when I decline to join a Tiny Talk?</h3>
 
@@ -54,6 +54,10 @@ include_in_header: true
 <h3>Can I turn off video and just do audio chat?</h3>
 
 > Yep! Video for Tiny Talk's are default on, but you can turn the video off if you prefer to only use voice chat.
+
+<h3>How much does it cost?</h3>
+
+>Tiny Talk is free to download and use.
 
 <h3>What do you do with my data?</h3>
 
