@@ -14,7 +14,7 @@ include_in_header: true
 
 <h3>How does it work?</h3>
 
-> Tiny Talk lets you sort your contacts: friends, family, work, other -- or, block a contact, which means you won't ever be matched with them. After sorting your contacts, you'll from time to time receive an invite to join a Tiny Talk -- this invite is double-blind, meaning neither you nor the person you'll be matched with will know the identity of the other person until you both opt-in. Once you match, you'll be automatically connected for a seven-minute video chat -- just a fun little exchange.
+> Tiny Talk lets you sort your contacts: friends, family, work, other -- or, block a contact, which means you won't ever be matched with them. After sorting your contacts, you'll from time to time receive an invite to join a Tiny Talk -- this invite is double-blind, meaning neither you nor the person you'll be matched with will know the identity of the other person until you both opt-in. You may also manually initiate a Tiny Talk anytime, and the functionality works exactly the same way. Once you match, you'll be automatically connected for a seven-minute video chat. At the end of the seven minutes, the Tiny Talk ends -- that's it!
 
 <h3>... another social network app? Wait but why?</h3>
 
@@ -28,12 +28,12 @@ include_in_header: true
 
 <h3>Why seven minutes?</h3>
 
-> The goal of Tiny Talk is to create a low-commitment experience that still allows for a meaningful exchange. Hence, Tiny Talks are capped at seven minutes.
+> The goal of Tiny Talk is to create a low-commitment experience that still allows for a meaningful exchange, which is why Tiny Talks are capped at seven minutes.
 > If seven minutes is too long, you can always end the call early. Or, if your Tiny Talk sparks something and seven minutes is not enough, just call the person back! Tiny Talks are intended as hors d'oeuvres - if you're still hungry, call them back!
 
 <h3>How do I get Tiny Talk?</h3>
 
-> Tiny Talk is available for download on iOS on the <a href=""> Apple App Store </a> and for Android on the <a href=""> Google Play Store </a>.
+> Tiny Talk is available for download on iOS on the <a href="https://apps.apple.com/us/app/tiny-talk-chat/id1526380332?uo=4"> Apple App Store </a> and for Android on the <a href="https://play.google.com/store/apps/details?id=com.tinytalkinc.tinytalk"> Google Play Store </a>.
 
 <h3>Can other users see when I block or sort them into a group?</h3>
 
@@ -41,7 +41,7 @@ include_in_header: true
 
 <h3>Why don't I see one of my contacts in my "stack" of people to sort?</h3>
 
-> Your "stack" is generated based on those of your phone contacts  that have registered for Tiny Talk. If one of your contacts does not show up in your "stack" (e.g. you're not able to sort them), it is because they have not registered for Tiny Talk or the number they registered with is not in your phone's contacts. Invite friends to join to expand the set of people you can connect with on Tiny Talk!
+> Your "stack" is generated based on those of your phone contacts that have registered for Tiny Talk. If one of your contacts does not show up in your "stack" (e.g. you're not able to sort them), it is because they have not registered for Tiny Talk or the number they registered with is not in your phone's contacts. Invite friends to join to expand the set of people you can connect with on Tiny Talk!
 
 <h3>How do I share Tiny Talk with my friends?</h3>
 
