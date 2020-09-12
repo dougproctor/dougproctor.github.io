@@ -10,7 +10,8 @@ include_in_header: true
 
 <h3>What is Tiny Talk?</h3>
 
-> Tiny Talk is a mobile app that aims to bring back the social serendipity of everyday life in the post-COVID world. From time to time, Tiny Talk will invite you to join a seven-minute, randomly coordinated video chat with one of your contacts that you've approved.
+> Tiny Talk is a mobile app that aims to bring back social serendipity through randomly-coordinated 7-minute 1:1 video chats amongst friends. Tiny Talk enables users to stay connected via meaningful, low-commitment interactions with people they are close with.
+
 
 <h3>How does it work?</h3>
 
@@ -20,7 +21,7 @@ include_in_header: true
 
 > We built Tiny Talk to enable friends to connect in fun, real and random ways.
 > Our motivation to build Tiny Talk was in part fueled by the following observations:
-> 1. One of the things many of us have lost in the post-COVID world is serendipity. We don't run into friends in the park and at restaurants as we used to, and our unplanned social encounters with friends have morphed into 30 minute scheduled zoom calls and hang-outs.
+> 1. One of the things many of us are dealing with as we spend much more time at homes is the serendipity of everyday life. We don't run into friends in the park and at restaurants as we used to, and our unplanned social encounters with friends have morphed into 30 minute scheduled zoom calls and hang-outs.
 >
 > 2. The vast majority of existing social network tools have a one:many structure -- you can post, tweet, snap, and share every waking moment, but it's harder than ever to actually connect. Our aim with Tiny Talk is to facilitate the type of real, meaningful and spontaneous one:one interactions that we feel are missing -- and to make them easy, low-commitment and fun.
 >
