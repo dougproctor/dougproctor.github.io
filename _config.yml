@@ -12,8 +12,8 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/tinytalk.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Tiny Talk                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Tiny Talk is a semi-social media app focused on creating meaningful, 1:1 connections through short, randomly coordinated video chats amongst friends.
-app_description2                          : We're bringing back social serendipity.
+app_description                           : Tiny Talk is bringing back social serendipity through randomly-coordinated 7-minute 1:1 video chats amongst friends.
+app_description2                          :  
 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -25,7 +25,7 @@ your_name                                 : Tiny Talk LLC
 your_link                                 :
 your_city                                 : Denver, CO
 email_address                             : team@tinytalk.io
-facebook_username                         : 
+facebook_username                         :
 instagram_username                        : TinyTalkInc
 twitter_username                          : TinyTalkInc
 github_username                           :
