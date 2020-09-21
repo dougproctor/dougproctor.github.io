@@ -5,7 +5,7 @@ page_title                                : Tiny Talk                           
 ios_app_id                                : 1526380332                                          # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=com.tinytalkinc.tinytalkfor                                   # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.tinytalkinc.tinytalk                                   # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -13,7 +13,7 @@ app_icon                                  : /assets/tinytalk.png                
 app_name                                  : Tiny Talk                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Tiny Talk is bringing back social serendipity through randomly-coordinated 7-minute 1:1 video chats amongst friends.
-app_description2                          :  
+app_description2                          :
 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
