@@ -17,9 +17,9 @@ include_in_header: true
 
 > Tiny Talk lets you sort your contacts: friends, family, work, other -- or, block a contact, which means you won't ever be matched with them. After sorting your contacts, you'll from time to time receive an invite to join a Tiny Talk -- this invite is double-blind, meaning neither you nor the person you'll be matched with will know the identity of the other person until you both opt-in. You may also manually initiate a Tiny Talk anytime, and the functionality works exactly the same way. Once you match, you'll be automatically connected for a seven-minute video chat. At the end of the seven minutes, the Tiny Talk ends -- that's it!
 >
-> Here's a quick video showing how Tiny Talk works in practice:
+> Here's a quick video of the onboarding experience you'll see when you download the app, which provides a quick tutorial for how to use Tiny Talk.
 >
-> <iframe src="https://player.vimeo.com/video/464569267?color=ffffff&title=0&byline=0&portrait=0" width="440" height="550" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+> <iframe src="https://player.vimeo.com/video/464566874?color=ffffff&title=0&byline=0&portrait=0" width="440" height="701" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <h3>... another social network app? Wait but why?</h3>
 
@@ -30,12 +30,6 @@ include_in_header: true
 > 2. The vast majority of existing social network tools have a one:many structure -- you can post, tweet, snap, and share every waking moment, but it's harder than ever to actually connect. Our aim with Tiny Talk is to facilitate the type of real, meaningful and spontaneous one:one interactions that we feel are missing -- and to make them easy, low-commitment and fun.
 >
 > All in all, our mission with Tiny Talk is to bring all of us just a little bit closer to the people we care about.
-
-<h3>Do you have an onboarding guide?</h3>
-
-> Funny you should ask... of course we do! Here's a quick video of the onboarding experience you'll see when you first download the app.
->
-> <iframe src="https://player.vimeo.com/video/464566874?color=ffffff&title=0&byline=0&portrait=0" width="440" height="701" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <h3>Why seven minutes?</h3>
 
