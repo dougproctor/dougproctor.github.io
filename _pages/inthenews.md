@@ -8,6 +8,14 @@ include_in_header: true
 
 <br>
 
+<h2> Shhh... it's a secret :) </h2>
+> #### `2020.10.25`
+> We're not quite ready to formally put out the word, but we've got something really exciting in the works -- it starts with "ch", it rhymes with flannel, and we think a lot of people (schools, businesses, volunteer groups, etc.) are going to love it. Stay tuned and get ready to have it in your hands in early November!
+
+<h2> Tiny Talk Happy Hours! </h2>
+> #### `2020.10.10`
+> We're super excited to announce the release of Tiny Talk Happy Hours! Be sure to RSVP and join the rest of the Tiny Talk community ~once per week for a series of random, back-to-back 7-minute 1:1 video chats with the people who matter to you!
+
 <h2> Tiny Talk featured on Product Hunt </h2>
 > #### `2020.09.10`
 > Tiny Talk was featured recently on <a href="https://www.producthunt.com/posts/tiny-talk"> Product Hunt </a> -- check it out!
