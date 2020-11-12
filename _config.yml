@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/tinytalk.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Tiny Talk                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Tiny Talk helps people and communities stay connected through random 7-minute 1:1 video chats with others in their community. Tiny Talk is bringing back social serendipity -- it's like ChatRoulette, but with your friends.
+app_description                           : Tiny Talk helps people and communities stay connected through random 7-minute 1:1 video chats. Tiny Talk is bringing back social serendipity -- it's like ChatRoulette, but with your friends, family, co-workers and/or classmates.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : dollar-sign
 
   - title                                 : Ad Hoc Tiny Talks
-    description                           : Users may initiate one-off Tiny Talks at any time with their personal contacts or other Channel members -- perfect for a quick catch-up up with someone you care about when you only have a few minutes.
+    description                           : Users may initiate one-off Tiny Talks at any time with their personal contacts or other Channel members -- perfect for a quick, random bump-in with someone you care about.
     fontawesome_icon_name                 : hand-peace
 
   - title                                 : Tiny Talk Happy Hours
