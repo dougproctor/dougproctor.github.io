@@ -6,8 +6,6 @@ include_in_header: true
 
 # Frequently Asked Questions (FAQ)
 
-<br>
-
 <h3>What is Tiny Talk?</h3>
 
 > Tiny Talk is a mobile app that helps to build and strengthen communities by connecting friends, family, classmates and co-workers for semi-random 7-minute 1:1 video chats. Tiny Talks are short, low-commitment and only with people you've approved to connect with. Whether you use Tiny Talk for your team at work, classmates at school, your volunteer group or just your family and friends, Tiny Talk is bringing back social serendipity to help build happy, healthy relationships.
@@ -18,7 +16,7 @@ include_in_header: true
 >
 > Here's a quick video of the onboarding experience you'll see when you download the app, which provides a quick tutorial for how to use Tiny Talk.
 >
-> <iframe src="https://player.vimeo.com/video/464566874?color=ffffff&title=0&byline=0&portrait=0" width="440" height="701" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+> <p align="center"><iframe src="https://player.vimeo.com/video/464566874?color=ffffff&title=0&byline=0&portrait=0" width="300" height="500" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>
 
 <h3>... another social network app? Wait but why?</h3>
 
