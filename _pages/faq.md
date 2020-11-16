@@ -10,8 +10,7 @@ include_in_header: true
 
 <h3>What is Tiny Talk?</h3>
 
-> Tiny Talk is a mobile app that aims to bring back social serendipity through randomly-coordinated 7-minute 1:1 video chats amongst friends. Tiny Talk enables users to stay connected via meaningful, low-commitment interactions with people they are close with.
-
+> Tiny Talk is a mobile app that helps to build and strengthen communities by connecting friends, family, classmates and co-workers for semi-random 7-minute 1:1 video chats. Tiny Talks are short, low-commitment and only with people you've approved to connect with. Whether you use Tiny Talk for your team at work, classmates at school, your volunteer group or just your family and friends, Tiny Talk is bringing back social serendipity to help build happy, healthy relationships.
 
 <h3>How does it work?</h3>
 
@@ -35,6 +34,24 @@ include_in_header: true
 
 > The goal of Tiny Talk is to create a low-commitment experience that still allows for a meaningful exchange, which is why Tiny Talks are capped at seven minutes.
 > If seven minutes is too long, you can always end the call early. Or, if your Tiny Talk sparks something and seven minutes is not enough, just call the person back! Tiny Talks are intended as hors d'oeuvres - if you're still hungry, call them back!
+
+<h3> What is a Tiny Talk? </h3>
+
+> A Tiny Talk is a 7-minute 1:1 video chat. Tiny Talks are double-blind, meaning neither the person initiating a Tiny Talk nor receiving an invite to join a Tiny Talk know who they're going to be matched with until both people opt in.
+>
+> That said, when you initiate or receive an invite to join a Tiny Talk, you may control the "Group" (friends, family, etc.) or "Channel" that you initiate the Tiny Talk with. For someone receiving an invite to join a Tiny Talk, they'll see the Group or Channel that the invite originates from.
+
+<h3> What is a Tiny Talk Happy Hour? </h3>
+
+> A Tiny Talk Happy Hour is a pre-set time during which users -- either from your personal contacts or from your Channels -- come online together to match with each other for one or a series of back-to-back 1:1 video chats.
+>
+> Worldwide Tiny Talk Happy Hours are hosted by the team at Tiny Talk on Thursdays at 6pm MT roughly every two weeks, and will enable you to connect with your personal contacts (approved contacts in any of your "Groups"). Channel admins may organize Tiny Talk Happy Hours whenever they want to!
+
+<h3> What is a Tiny Talk Channel? </h3>
+
+> A Tiny Talk Channel is a place where Tiny Talk users come together around shared communities, interests or affiliations. Common examples are college or university clubs and alumni groups, work teams, volunteer groups, or online communities that share common interests (e.g. learning a foreign language).
+>
+> Channel members are eligible to match with other Channel members by default (though they may block others as well). Furthermore, Tiny Talk supports a secure mechanism for Channel members to share their contact information with other members if they so choose. Channel admins are able to manage Channel membership, organize Channel-specific Tiny Talk Happy Hours, set Channel community standards, and more.
 
 <h3>How do I get Tiny Talk?</h3>
 
@@ -62,7 +79,7 @@ include_in_header: true
 
 <h3>How much does it cost?</h3>
 
->Tiny Talk is free to download and use.
+>Tiny Talk is free to download and use for everyone. Whether you're using Tiny Talk to stay in touch for personal use, to meet others at your college or university, to help your remote team stay connected, or to increase engagement in your volunteer group, Tiny Talk is free.
 
 <h3>What do you do with my data?</h3>
 
