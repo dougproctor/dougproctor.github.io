@@ -31,7 +31,7 @@ include_in_header: true
 <h3>Why seven minutes?</h3>
 
 > The goal of Tiny Talk is to create a low-commitment experience that still allows for a meaningful exchange, which is why Tiny Talks are capped at seven minutes.
-> If seven minutes is too long, you can always end the call early. Or, if your Tiny Talk sparks something and seven minutes is not enough, just call the person back! Tiny Talks are intended as hors d'oeuvres - if you're still hungry, call them back!
+> If seven minutes is too long, you can always end the call early. Or, if your Tiny Talk sparks something and seven minutes is not enough, just call the person back! Tiny Talks are intended as hors d'oeuvres - if you're still hungry, call them back!!
 
 <h3> What is a Tiny Talk? </h3>
 
