@@ -22,7 +22,7 @@ To the extent you're looking for things like Tiny Talk explainer videos or resou
 >
 > Here's a quick video of the onboarding experience you'll see when you download the app, which provides a quick tutorial for how to use Tiny Talk.
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/qpwFBMiiwKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <iframe width="700" height="500" src="https://www.youtube.com/embed/qpwFBMiiwKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <t1> ... another social network app? Wait but why? </t1>
 
