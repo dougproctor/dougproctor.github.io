@@ -8,16 +8,24 @@ include_in_header: true
 
 <br>
 
+<h2> Introducing Channels! </h2>
+> #### `November 11, 2020`
+> We're incredibly excited to announce Tiny Talk Channels -- a new way to connect your communities using Tiny Talk.
+>
+> Whether you're using Channels for your team at work, your club or association at school, your volunteer group, or just to stay in touch with friends from various walks of life, Tiny Talk Channels allow communities to come together -- either for ad hoc Tiny Talks, or for Channel-specific Tiny Talk Happy Hours.
+>
+> Like everything else in the Tiny Talk universe, Channels are totally free, easy to join or create, and an awesome way to stay connected to the people you care about.
+
 <h2> Shhh... it's a secret :) </h2>
-> #### `2020.10.25`
+> #### `October 25, 2020`
 > We're not quite ready to formally put out the word, but we've got something really exciting in the works -- it starts with "ch", it rhymes with flannel, and we think a lot of people (schools, businesses, volunteer groups, etc.) are going to love it. Stay tuned and get ready to have it in your hands in early November!
 
 <h2> Tiny Talk Happy Hours! </h2>
-> #### `2020.10.10`
+> #### `October 10, 2020`
 > We're super excited to announce the release of Tiny Talk Happy Hours! Be sure to RSVP and join the rest of the Tiny Talk community ~once per week for a series of random, back-to-back 7-minute 1:1 video chats with the people who matter to you!
 
 <h2> Tiny Talk featured on Product Hunt </h2>
-> #### `2020.09.10`
+> #### `September 10, 2020`
 > Tiny Talk was featured recently on <a href="https://www.producthunt.com/posts/tiny-talk"> Product Hunt </a> -- check it out!
 <br>
 >
@@ -26,7 +34,7 @@ include_in_header: true
 <br>
 
 <h2> Tiny Talk 1.0.0 is live in the App Store </h2>
-> #### `2020.09.01`
+> #### `September 1, 2020`
 > We're excited to announce that Tiny Talk is now to our alpha users on iOS on the <a href="https://apps.apple.com/us/app/tiny-talk-chat/id1526380332">Apple App Store</a> and for Android on the <a href="https://play.google.com/store/apps/details?id=com.tinytalkinc.tinytalk">Google Play Store</a>.
 >
 > Check it out, let us know what you think, and have fun out there!
