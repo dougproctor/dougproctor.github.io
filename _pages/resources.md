@@ -35,16 +35,16 @@ If have questions, check out our <a href= "https://tinytalk.io/faq"> FAQ page </
 
 <h1> Additional resources</h1>
 
-<t1>  Example email templates for sharing Tiny Talk with your community </t1>
+<t1>  Getting Started Guide (one-pager) </t1>
 
-> A simple and easy to use "Getting Started Guide" designed to be shared with new Tiny Talk users, especially those who are joining Tiny Talk to stay connected with their communities at work, school or volunteer organizations.
+> A simple simple, easy to use “Getting Started Guide” for new Tiny Talk users, especially those who are joining Tiny Talk in order to stay connected with their professional, academic or volunteer communities through Tiny Talk Channels.
 >
-> <a href="https://docs.google.com/document/d/1--z9kXfhGQVwuLkXFOQMTCrt7cQ-y5_ajod4CCHZeGY/edit?usp=sharing"> Here is a link to download the document.</a>
-> <iframe src="https://docs.google.com/document/d/e/2PACX-1vRb-rQq9wzGl9UI6oAETRzOrTrV2-FeJJBhk_dF1NgV0VqAwo0ZUVD_KRt1i7oZ9uVDYLzGdsqBKQCp/pub?embedded=true" width="700" height="500" frameborder="1"></iframe>
+> <a href="https://drive.google.com/file/d/127wRIaeMZe_eQ0cE0hZ21G91RkIx0-zk/view?usp=sharing"> Here is a link to download the document.</a>
+> <iframe src="https://drive.google.com/file/d/127wRIaeMZe_eQ0cE0hZ21G91RkIx0-zk/preview" width="700" height="900"></iframe>
 
 <br>
 
-<t1>  Tiny Talk Overview Deck </t1>
+<t1>  Tiny Talk Overview Deck (5-slides)</t1>
 
 > A quick, 5-slide deck that overviews the problems that Tiny Talk aims to solve, how the app works, and a few screenshots of the product.
 >
