@@ -28,7 +28,7 @@ To the extent you're looking for things like Tiny Talk explainer videos or resou
 
 > We built Tiny Talk to enable friends to connect in fun, real and random ways.
 > Our motivation to build Tiny Talk was in part fueled by the following observations:
-> 1. One of the things many of us are dealing with as we spend much more time at homes is the serendipity of everyday life. We don't run into friends in the park and at restaurants as we used to, and our unplanned social encounters with friends have morphed into 30 minute scheduled zoom calls and hang-outs.
+> 1. Because we are spending so much more time at home, we are missing the serendipitous encounters of everyday life. We don't run into friends in the park and at restaurants as we used to, and our unplanned social encounters with friends have morphed into 30 minute scheduled zoom calls and hang-outs.
 >
 > 2. The vast majority of existing social network tools have a one:many structure -- you can post, tweet, snap, and share every waking moment, but it's harder than ever to actually connect. Our aim with Tiny Talk is to facilitate the type of real, meaningful and spontaneous one:one interactions that we feel are missing -- and to make them easy, low-commitment and fun.
 >
@@ -87,7 +87,7 @@ To the extent you're looking for things like Tiny Talk explainer videos or resou
 
 <t1> What do you do with my data? </t1>
 
-> The short answer is that we don't sell or user your data in any way other than to provide you with a great product and user experience. You can find all the nitty gritty legalese in our <a href= "https://tinytalk.io/terms"> Terms of Service </a> and <a href="https://tinytalk.io/privacy"> Privacy Policy </a>.
+> The short answer is that we don't sell or use your data in any way other than to provide you with a great product and user experience. You can find all the nitty gritty legalese in our <a href= "https://tinytalk.io/terms"> Terms of Service </a> and <a href="https://tinytalk.io/privacy"> Privacy Policy </a>.
 
 <t1> How do I get in touch to share my idea or to provide feedback? </t1>
 
