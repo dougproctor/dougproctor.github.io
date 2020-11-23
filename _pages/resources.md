@@ -48,4 +48,4 @@ If have questions, check out our <a href= "https://tinytalk.io/faq"> FAQ page </
 > An email template...
 >
 > <a href="https://docs.google.com/document/d/1--z9kXfhGQVwuLkXFOQMTCrt7cQ-y5_ajod4CCHZeGY/edit?usp=sharing"> Here is a link to download the document.</a>
-> <iframe src="https://docs.google.com/document/d/e/2PACX-1vRb-rQq9wzGl9UI6oAETRzOrTrV2-FeJJBhk_dF1NgV0VqAwo0ZUVD_KRt1i7oZ9uVDYLzGdsqBKQCp/pub?embedded=true" width="800" height="600" frameborder="1"></iframe>
+> <iframe src="https://docs.google.com/document/d/e/2PACX-1vRb-rQq9wzGl9UI6oAETRzOrTrV2-FeJJBhk_dF1NgV0VqAwo0ZUVD_KRt1i7oZ9uVDYLzGdsqBKQCp/pub?embedded=true" width="700" height="500" frameborder="1"></iframe>
