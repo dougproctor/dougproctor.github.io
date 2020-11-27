@@ -12,8 +12,8 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/tinytalk.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Tiny Talk                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Tiny Talk helps people and communities stay connected through random 7-minute 1:1 video chats. Tiny Talk is bringing back social serendipity -- it's like ChatRoulette, but with your friends, family, co-workers and/or classmates.
-
+app_description                           : Tiny Talk helps people and communities stay connected through random 7-minute 1-on-1 video chats. Create Tiny Talk “Channels” and schedule happy hours for a series of back-to-back 1-on-1 video chat with your team at work, friends from school, or for that next family catch-up. Tiny Talk is bringing back social serendipity.
+app_description2                          : New to Tiny Talk? Check out the <a href="https://tinytalk.io/resources/"> Resources page </a> for a 60-second explainer video and "Getting Started Guide" for easily sharing Tiny Talk at work, school, or beyond!
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 # Information About Yourself
