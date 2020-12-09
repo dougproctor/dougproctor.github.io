@@ -89,6 +89,10 @@ To the extent you're looking for things like Tiny Talk explainer videos or resou
 
 > The short answer is that we don't sell or use your data in any way other than to provide you with a great product and user experience. You can find all the nitty gritty legalese in our <a href= "https://tinytalk.io/terms"> Terms of Service </a> and <a href="https://tinytalk.io/privacy"> Privacy Policy </a>.
 
+<t1> Are Tiny Talk conversations ever recorded or saved? <t1>
+
+> No. All Tiny Talk streaming audio and video content is ephemeral, meaning it's never recorded, stored or saved. Tiny Talk uses best in class tools and security protocols to ensure that conversations are always safe and secure.
+
 <t1> How do I get in touch to share my idea or to provide feedback? </t1>
 
 > We love hearing from you, so don't hesitate to get in touch with questions, ideas or feedback!
