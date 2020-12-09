@@ -83,13 +83,13 @@ To the extent you're looking for things like Tiny Talk explainer videos or resou
 
 <t1> How much does it cost? </t1>
 
->Tiny Talk is free to download and use for everyone. Whether you're using Tiny Talk to stay in touch for personal use, to meet others at your college or university, to help your remote team stay connected, or to increase engagement in your volunteer group, Tiny Talk is free.
+> Tiny Talk is free to download and use for everyone. Whether you're using Tiny Talk to stay in touch for personal use, to meet others at your college or university, to help your remote team stay connected, or to increase engagement in your volunteer group, Tiny Talk is free.
 
 <t1> What do you do with my data? </t1>
 
 > The short answer is that we don't sell or use your data in any way other than to provide you with a great product and user experience. You can find all the nitty gritty legalese in our <a href= "https://tinytalk.io/terms"> Terms of Service </a> and <a href="https://tinytalk.io/privacy"> Privacy Policy </a>.
 
-<t1> Are Tiny Talk conversations ever recorded or saved? <t1>
+<t1> Are Tiny Talk conversations ever recorded or saved? </t1>
 
 > No. All Tiny Talk streaming audio and video content is ephemeral, meaning it's never recorded, stored or saved. Tiny Talk uses best in class tools and security protocols to ensure that conversations are always safe and secure.
 
