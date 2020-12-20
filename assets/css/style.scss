@@ -12,3 +12,24 @@ body {
   }
 
 }
+
+header {
+  float: left;
+  width: 100%;
+  padding: 7px 0;
+  background: #65D1FF;
+  border-radius: 5px 5px 0 0;
+  border-top: 115px solid #1E1E1E;
+  font-family: 'Source Sans Pro', sans-serif;
+  h1 {
+    float: left;
+    a {
+      float: left;
+      width: 70%;
+    }
+  }
+  > a {
+    float: right;
+    color: #fff;
+  }
+}
