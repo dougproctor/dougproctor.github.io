@@ -14,22 +14,40 @@ body {
 }
 
 header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
   float: left;
   width: 100%;
-  padding: 7px 0;
+  padding: 16px 0;
   background: #65D1FF;
-  border-radius: 5px 5px 0 0;
-  border-top: 115px solid #1E1E1E;
+  border-radius: 20px 20px 0 0;
+  border-top: 173px solid #1E1E1E;
   font-family: 'Source Sans Pro', sans-serif;
   h1 {
     float: left;
     a {
       float: left;
-      width: 70%;
+      margin-left: 118px;
+      img {
+        display: block;
+      }
     }
   }
-  > a {
-    float: right;
-    color: #fff;
+  div {
+    a {
+      font-size: 60px;
+      text-decoration: none;
+      float: right;
+      color: #fff;
+      &:first-of-type {
+        margin-right: 102px;
+      }
+      &:last-of-type {
+        margin-right: 132px;
+      }
+    }
   }
+}
 }
