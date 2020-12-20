@@ -19,3 +19,9 @@ sass:
     style: :compressed
     sass_dir: _sass
 
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - tinytalk.gemspec
+  - README.md
+  - LICENSE.txt
