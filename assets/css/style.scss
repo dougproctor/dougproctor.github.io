@@ -6,10 +6,9 @@
 @import 'breakpoints';
 
 body {
-  background: black;
 
   @include mobile {
-    color: #fff;
+    background: yellow;
   }
 
 }
