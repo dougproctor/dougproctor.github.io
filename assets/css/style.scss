@@ -113,26 +113,51 @@ div.internal {
   max-width: 1000px;
   margin-bottom: 300px;
   padding: 0 30px;
+  @include tablet {
+    margin-bottom: 100px;
+  }
   &.faq {
     max-width: 700px;
   }
   h2 {
     margin: 155px 0 145px;
     text-align: center;
+    @include tablet {
+      font-size: 30px;
+      margin: 30px 0 30px;
+    }
   }
   h3 {
     margin-top: 50px;
+    @include tablet {
+      font-size: 20px;
+      margin-top: 30px;
+    }
   }
   ul {
     list-style: disc;
     margin: 40px 0 40px 40px;
+    @include tablet {
+      margin: 13px 0 0 20px;
+    }
     li {
       margin-top: 14px;
       font-size: 40px;
+      &:first-of-type {
+        margin-top: 0;
+      }
+      @include tablet {
+        margin-top: 6px;
+        font-size: 16px;
+      }
     }
   }
   p {
     margin-top: 30px;
+    @include tablet {
+      font-size: 16px;
+      margin-top: 6px;
+    }
   }
 }
 
