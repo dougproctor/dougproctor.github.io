@@ -37,6 +37,10 @@ p {
   font-weight: 400;
 }
 
+a {
+  color: #000;
+}
+
 body,
 .flex {
   display: flex;
@@ -80,7 +84,7 @@ header {
   }
 }
 
-div.faq {
+div.internal {
   max-width: 1000px;
   margin-bottom: 300px;
   h2 {
@@ -168,5 +172,9 @@ footer {
   }
   p {
     font-size: 34px;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
   }
 }
