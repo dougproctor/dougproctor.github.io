@@ -8,6 +8,8 @@
 $primary: #65D1FF;
 $secondary: #1E1E1E;
 
+* { font-family: 'Source Sans Pro', sans-serif; }
+
 body {
 
   @include mobile {
@@ -15,9 +17,24 @@ body {
   }
 
 }
+header, .btn, h2, h3, p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}
+
 h2 {
   color: #000;
   font-size: 70px;
+}
+
+h3 {
+  color: #000;
+  font-size: 50px;
+}
+
+p {
+  font-size: 40px;
+  font-weight: 400;
 }
 
 body,
@@ -26,11 +43,6 @@ body,
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-}
-
-header, .btn, h2 {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 700;
 }
 
 header {
@@ -70,6 +82,20 @@ header {
   }
 }
 
+div.faq {
+  max-width: 1000px;
+  margin-bottom: 300px;
+  h2 {
+    margin: 155px 0 145px;
+    text-align: center;
+  }
+  h3 {
+    margin-top: 50px;
+  }
+  p {
+    margin-top: 30px;
+  }
+}
 
 .box {
   width: 50%;
@@ -120,6 +146,7 @@ footer {
   width: 100%;
   h3 {
     font-weight: bold;
+    color: #fff;
   }
   ul {
     margin: 30px 0 20px;
