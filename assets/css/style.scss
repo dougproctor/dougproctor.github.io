@@ -62,12 +62,17 @@ header {
 
   position: fixed;
   top: 0;
-
+  @include tablet {
+    padding: 15px 0;
+  }
   h1 {
     float: left;
     a {
       float: left;
       margin-left: 118px;
+      @include tablet {
+        margin-left: 25px;
+      }
       img {
         display: block;
       }
@@ -79,11 +84,26 @@ header {
       text-decoration: none;
       float: right;
       color: #fff;
+      @include tablet {
+        font-size: 16px;
+      }
+
       &:first-of-type {
         margin-right: 102px;
+        @include tablet {
+          margin-right: 26px;
+          background: $action;
+          padding: 5px 11px 7px 11px;
+          border-radius: 18px;
+          line-height: 1em;
+          margin-top: -3px;
+        }
       }
       &:last-of-type {
         margin-right: 132px;
+        @include tablet {
+          margin-right: 24px;
+        }
       }
     }
   }
