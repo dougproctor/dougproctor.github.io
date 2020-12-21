@@ -12,11 +12,8 @@ $secondary: #1E1E1E;
 
 body {
   padding-top: 142px;
-  @include mobile {
-    background: yellow;
-  }
-
 }
+
 header, .btn, h2, h3, p {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
@@ -91,6 +88,7 @@ header {
 div.internal {
   max-width: 1000px;
   margin-bottom: 300px;
+  padding: 0 30px;
   h2 {
     margin: 155px 0 145px;
     text-align: center;
@@ -113,13 +111,17 @@ div.internal {
 
 .box {
   width: 50%;
-  // height: 100vh;
   min-height: 38em;
   max-height: 60em;
-  // padding: 6vw;
   padding: 2.7vw;
+  @include tablet {
+    width: 100%;
+  }
   h3 {
     font-size: 70px;
+    @include small-desktop {
+      font-size: 50px;
+    }
   }
   .btn {
     margin-top: 30px;
