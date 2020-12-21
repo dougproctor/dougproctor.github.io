@@ -7,11 +7,15 @@
 
 $primary: #65D1FF;
 $secondary: #1E1E1E;
+$action: #FF1600;
 
 * { font-family: 'Source Sans Pro', sans-serif; }
 
 body {
   padding-top: 142px;
+  @include tablet {
+    padding-top: 84px;
+  }
 }
 
 header, .btn, h2, h3, p {
