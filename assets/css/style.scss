@@ -11,7 +11,7 @@ $secondary: #1E1E1E;
 * { font-family: 'Source Sans Pro', sans-serif; }
 
 body {
-
+  padding-top: 142px;
   @include mobile {
     background: yellow;
   }
@@ -58,6 +58,10 @@ header {
   width: 100%;
   padding: 43.5px 0;
   background: $primary;
+
+  position: fixed;
+  top: 0;
+
   h1 {
     float: left;
     a {
