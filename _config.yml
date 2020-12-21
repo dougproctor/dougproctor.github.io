@@ -1,27 +1,3 @@
-name: "tinytalk theme"
-description: "Tinytalk theme"
-
-url: ''
-baseurl: ''
-
-markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-source: .
-destination: ./_site
-
-sass:
-    style: :compressed
-    sass_dir: _sass
-
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - tinytalk.gemspec
-  - README.md
-  - LICENSE.txt
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "TinyTalk" # the name of your site, e.g. ACME Corp.
