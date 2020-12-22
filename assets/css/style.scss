@@ -62,6 +62,7 @@ header {
 
   position: fixed;
   top: 0;
+  z-index: 2;
   @include tablet {
     padding: 15px 0;
   }
@@ -217,6 +218,15 @@ div.internal {
       }
     }
   }
+  .main-img {
+    position: absolute;
+    right: 43%;
+    right: calc(50% - 150px);
+    z-index: 1;
+    @include desktop {
+      display: none;
+    }
+  }
   .btn {
     margin-top: 30px;
     display: inline-block;
@@ -302,6 +312,7 @@ footer {
     color: #fff;
   }
   ul {
+    margin: 20px 0;
     @include tablet {
       margin: 10px 0 15px;
     }
