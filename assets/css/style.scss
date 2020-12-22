@@ -70,6 +70,9 @@ header {
     a {
       float: left;
       margin-left: 118px;
+      @include small-desktop {
+        margin-left: 50px;
+      }
       @include tablet {
         margin-left: 25px;
       }
@@ -90,6 +93,9 @@ header {
 
       &:first-of-type {
         margin-right: 102px;
+        @include small-desktop {
+          margin-right: 50px;
+        }
         @include tablet {
           margin-right: 26px;
           background: $action;
@@ -101,6 +107,9 @@ header {
       }
       &:last-of-type {
         margin-right: 132px;
+        @include small-desktop {
+          margin-right: 50px;
+        }
         @include tablet {
           margin-right: 24px;
         }
