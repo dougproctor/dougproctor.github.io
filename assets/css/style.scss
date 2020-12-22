@@ -116,8 +116,30 @@ div.internal {
   @include tablet {
     margin-bottom: 100px;
   }
-  &.faq {
-    max-width: 700px;
+  &.download {
+    @include tablet {
+      margin-bottom: 200px;
+    }
+    div {
+      margin-top: 40px;
+      display: flex;
+      justify-content: space-evenly;
+      @include tablet {
+        flex-direction: column;
+        margin-top: 0px;
+      }
+      img {
+        width: 35%;
+        margin: 0 auto;
+        padding: 0;
+        display: block;
+        float: left;
+        margin-top: 60px;
+        @include tablet {
+
+        }
+      }
+    }
   }
   h2 {
     margin: 155px 0 145px;
