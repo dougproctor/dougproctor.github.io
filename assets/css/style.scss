@@ -11,10 +11,17 @@ $action: #FF1600;
 
 * { font-family: 'Source Sans Pro', sans-serif; }
 
+// temporary
+// body,
+// header {
+//   margin: 0 auto;
+//   max-width: 1440px;
+// }
+
 body {
   padding-top: 70px;
-  @include tablet {
-    padding-top: 84px;
+  @include phone {
+    padding-top: 62px;
   }
 }
 
@@ -63,19 +70,21 @@ header {
   position: fixed;
   top: 0;
   z-index: 2;
-  @include tablet {
-    padding: 15px 0;
+  @include phone {
+    padding: 11px 0;
   }
   h1 {
     float: left;
     a {
       float: left;
       margin-left: 60px;
-      @include small-desktop {
-        margin-left: 50px;
-      }
-      @include tablet {
-        margin-left: 25px;
+      // @include small-desktop {
+      //   margin-left: 50px;
+      // }
+      @include phone {
+        // margin-left: 25px;
+        max-width: 40px;
+        margin-left: 15px;
       }
       img {
         display: block;
@@ -89,19 +98,19 @@ header {
       text-decoration: none;
       float: right;
       color: #fff;
-      @include tablet {
+      @include phone {
         font-size: 16px;
       }
 
       &:first-of-type {
         margin-right: 48px;
-        @include small-desktop {
-          margin-right: 50px;
-        }
-        @include tablet {
-          margin-right: 26px;
+        // @include small-desktop {
+        //   margin-right: 50px;
+        // }
+        @include phone {
+          margin-right: 11px;
+          padding: 4px 9px 6px 9px;
           background: $action;
-          padding: 5px 11px 7px 11px;
           border-radius: 18px;
           line-height: 1em;
           margin-top: -3px;
@@ -112,7 +121,7 @@ header {
         @include small-desktop {
           margin-right: 50px;
         }
-        @include tablet {
+        @include phone {
           margin-right: 24px;
         }
       }
@@ -124,12 +133,12 @@ div.internal {
   max-width: 574px;
   margin-bottom: 300px;
   padding: 0 30px;
-  @include tablet {
+  @include phone {
     margin-bottom: 100px;
   }
   &.download {
     max-width: 1000px;
-    @include tablet {
+    @include phone {
       margin-bottom: 200px;
     }
     h2 {
@@ -145,16 +154,21 @@ div.internal {
       margin-top: 40px;
       display: flex;
       justify-content: space-evenly;
-      @include tablet {
+      @include phone {
         flex-direction: column;
         margin-top: 0px;
       }
       a {
-        width: 40%;
         margin: 0 auto;
         margin-top: 60px;
+        $offset: 4%;
+        &:first-of-type {
+          margin-right: $offset;
+        }
+        &:last-of-type {
+          margin-left: $offset;
+        }
         img {
-          width: 100%;
           margin: 0 auto;
           padding: 0;
           display: block;
@@ -166,20 +180,20 @@ div.internal {
   h2 {
     margin: 76px 0 76px;
     text-align: center;
-    @include tablet {
+    @include phone {
       font-size: 30px;
       margin: 30px 0 30px;
     }
   }
   h3 {
     margin-top: 50px;
-    @include tablet {
+    @include phone {
       font-size: 20px;
       margin-top: 30px;
     }
   h4 {
     margin-top: 20px;
-    @include tablet {
+    @include phone {
       font-size: 15px;
       margin-top:20px;
     }
@@ -188,7 +202,7 @@ div.internal {
   ul {
     list-style: disc;
     margin: 40px 0 40px 40px;
-    @include tablet {
+    @include phone {
       margin: 13px 0 0 20px;
     }
     li {
@@ -197,7 +211,7 @@ div.internal {
       &:first-of-type {
         margin-top: 0;
       }
-      @include tablet {
+      @include phone {
         margin-top: 6px;
         font-size: 16px;
       }
@@ -205,7 +219,7 @@ div.internal {
   }
   p {
     margin-top: 14px;
-    @include tablet {
+    @include phone {
       font-size: 16px;
       margin-top: 6px;
     }
@@ -217,22 +231,19 @@ div.internal {
   min-height: 23em;
   max-height: 60em;
   padding: 1vw;
-  @include tablet {
+  @include phone {
     width: 100%;
     min-height: 300px;
-    padding: 30px 50px;
+    padding: 30px 44px;
   }
 
   h3 {
     font-size: 25px;
-    @include small-desktop {
-      font-size: 50px;
-    }
-    @include tablet {
+    @include phone {
       font-size: 30px;
     }
     &.center {
-      @include tablet {
+      @include phone {
         text-align: center;
       }
     }
@@ -261,15 +272,17 @@ div.internal {
     &:hover {
       box-shadow: 0 0.35em 0.85em rgba(0, 0, 0, 0.2);
     }
-    @include tablet {
-      margin-top: 13px;
-      padding: .3em 1.3em .5em 1.3em;
+    @include phone {
       font-size: 16px;
+      margin-top: 13px;
+      padding: 4px 10px 6px 10px;
     }
   }
   &.action {
     div {
-      width: 55%;
+      @include phone-up {
+        width: 55%;
+      }
     }
   }
   &.mission {
@@ -281,7 +294,7 @@ div.internal {
   &.gif {
     background: #5162FA;
     img {
-      @include tablet {
+      @include phone {
         width: 46%;
       }
     }
@@ -300,6 +313,9 @@ div.internal {
   &.people {
     background: $primary;
     position: relative;
+    @include phone {
+      padding: 30px;
+    }
     h3 {
       text-align: center;
     }
@@ -309,37 +325,52 @@ div.internal {
       background: #1E1E1E;
       position: absolute;
       top: -79px;
+      @include phone {
+        display: none;
+      }
     }
   }
   &.phones {
-    @include tablet {
+    @include phone {
       padding: 40px 50px;
     }
+    &.first,
+    &.second {
+      @include phone {
+        padding: 0 50px;
+        min-height: 250px;
+      }
+    }
     &.first {
-      justify-content: flex-end;
-      padding-right: 11.5%;
+      @include phone-up {
+        justify-content: flex-end;
+        padding-right: 11.5%;
+      }
     }
     &.second {
-      justify-content: flex-start;
-      padding-left: 11.5%;
+      @include phone-up {
+        justify-content: flex-start;
+        padding-left: 11.5%;
+      }
+      @include phone {
+        padding-bottom: 20px;
+      }
     }
     div {
-      @include tablet-up {
+      @include phone-up {
         padding: 50px 0 70px 0;
       }
     }
     img {
       display: block;
       margin: 0 auto;
-      @include tablet {
+      @include phone {
         width: 50%;
       }
       &:last-of-type {
         margin-top: 30px;
-        @include tablet-up {
-        }
-        @include tablet {
-          margin-top: 25px;
+        @include phone {
+          margin-top: 10px;
         }
       }
     }
@@ -351,11 +382,11 @@ footer {
   padding: 35px 52px 15px;
   color: #fff;
   width: 100%;
-  @include tablet {
+  @include phone {
     padding: 20px 30px 20px;
   }
   * {
-    @include tablet {
+    @include phone {
       text-align: center;
     }
   }
@@ -366,7 +397,7 @@ footer {
   }
   ul {
     margin: 13px 0;
-    @include tablet {
+    @include phone {
       margin: 10px 0 15px;
     }
   }
@@ -374,13 +405,13 @@ footer {
     font-family: Source Sans Pro;
     font-weight: 400;
     font-size: 20px;
-    @include tablet {
+    @include phone {
       font-size: 16px;
     }
   }
   p {
     font-size: 16px;
-    @include tablet {
+    @include phone {
       font-size: 12px;
     }
   }
