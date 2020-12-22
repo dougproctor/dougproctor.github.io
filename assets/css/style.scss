@@ -275,11 +275,20 @@ div.internal {
     @include tablet {
       padding: 40px 50px;
     }
+    div {
+      @include tablet-up {
+        padding: 50px 0 70px 0;
+      }
+    }
     img {
       display: block;
       margin: 0 auto;
       @include tablet {
         width: 50%;
+      }
+      &:first-of-type {
+        width: 100%;
+        max-width: 200px;
       }
       &:last-of-type {
         margin-top: 70px;
