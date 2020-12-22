@@ -138,15 +138,16 @@ div.internal {
         flex-direction: column;
         margin-top: 0px;
       }
-      img {
-        width: 35%;
+      a {
+        width: 40%;
         margin: 0 auto;
-        padding: 0;
-        display: block;
-        float: left;
         margin-top: 60px;
-        @include tablet {
-
+        img {
+          width: 100%;
+          margin: 0 auto;
+          padding: 0;
+          display: block;
+          float: left;
         }
       }
     }
