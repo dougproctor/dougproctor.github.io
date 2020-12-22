@@ -200,7 +200,7 @@ div.internal {
   @include tablet {
     width: 100%;
     min-height: 300px;
-    padding: 10px 50px;
+    padding: 30px 50px;
   }
 
   h3 {
@@ -272,6 +272,10 @@ div.internal {
       }
       &:last-of-type {
         margin-top: 70px;
+        @include tablet-up {
+          max-width: 400px;
+          width: 100%;
+        }
         @include tablet {
           margin-top: 25px;
         }
