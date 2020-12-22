@@ -8,6 +8,8 @@ $sm-dn: "(max-width: #{$sm - 1})";
 $md-dn: "(max-width: #{$md - 1})";
 $lg-dn: "(max-width: #{$lg - 1})";
 
+$md-up: "(min-width: #{$md})";
+
 @mixin mobile {
   @media screen and #{$sm-dn} { @content; }
 }
@@ -15,6 +17,11 @@ $lg-dn: "(max-width: #{$lg - 1})";
 @mixin tablet {
   @media screen and #{$md-dn} { @content; }
 }
+
+@mixin tablet-up {
+  @media screen and #{$md-up} { @content; }
+}
+
 
 @mixin small-desktop {
   @media screen and #{$lg-dn} { @content; }
