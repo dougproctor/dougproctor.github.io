@@ -193,7 +193,7 @@ div.internal {
     }
   h4 {
     margin-top: 20px;
-    @include tablet {
+    @include phone {
       font-size: 15px;
       margin-top:20px;
     }
