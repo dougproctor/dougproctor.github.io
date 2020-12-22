@@ -249,10 +249,18 @@ div.internal {
       font-size: 16px;
     }
   }
-  &#video {
+  &.action {
+    div {
+      width: 55%;
+    }
+  }
+  &.mission {
+    text-align: center;
+  }
+  &.video {
     background: #A160FB;
   }
-  &#gif {
+  &.gif {
     background: #5162FA;
     img {
       @include tablet {
@@ -261,15 +269,29 @@ div.internal {
     }
   }
 
-  &#users {
+  &.users {
     background: $secondary;
+    h3 {
+      width: 55%;
+    }
     h3 {
       color: #fff;
     }
   }
 
-  &#people {
+  &.people {
     background: $primary;
+    position: relative;
+    h3 {
+      text-align: center;
+    }
+    #line {
+      height: 178px;
+      width: 2px;
+      background: #1E1E1E;
+      position: absolute;
+      top: -79px;
+    }
   }
   &.phones {
     @include tablet {
