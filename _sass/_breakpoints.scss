@@ -16,11 +16,11 @@ $md-up: "(min-width: #{$md})";
   @media screen and #{$sm-dn} { @content; }
 }
 
-@mixin tablet {
+@mixin phone {
   @media screen and #{$md-dn} { @content; }
 }
 
-@mixin tablet-up {
+@mixin phone-up {
   @media screen and #{$md-up} { @content; }
 }
 
@@ -34,6 +34,6 @@ $md-up: "(min-width: #{$md})";
 }
 
 
-// @include tablet {
+// @include phone {
 //   background: yellow;
 // }
