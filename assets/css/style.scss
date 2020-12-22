@@ -298,6 +298,14 @@ div.internal {
     @include tablet {
       padding: 40px 50px;
     }
+    &.first {
+      justify-content: flex-end;
+      padding-right: 11.5%;
+    }
+    &.second {
+      justify-content: flex-start;
+      padding-left: 11.5%;
+    }
     div {
       @include tablet-up {
         padding: 50px 0 70px 0;
@@ -309,10 +317,8 @@ div.internal {
       @include tablet {
         width: 50%;
       }
-      &:first-of-type {
-      }
       &:last-of-type {
-        margin-top: 70px;
+        margin-top: 30px;
         @include tablet-up {
         }
         @include tablet {
