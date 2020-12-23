@@ -231,15 +231,38 @@ div.internal {
     min-height: 300px;
     padding: 30px 44px;
   }
-
   h3 {
-    font-size: 25px;
-    @include phone {
+    font-size: 35px;
+    @include desktop {
       font-size: 30px;
     }
     &.center {
       @include phone {
         text-align: center;
+      }
+    }
+  }
+  div.resp-iframe {
+    position: absolute;
+    width: 80%;
+    height: 90%;
+    max-width: 450px;
+    max-height: 300px;
+    @include phone {
+      max-width: 300px;
+      max-height: 200px;
+    }
+    iframe {
+      border-radius: 20px;
+      border: 3px solid #fff;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      @include phone {
+        border-width: 6px;
+        border-radius: 40px;
       }
     }
   }
@@ -285,6 +308,7 @@ div.internal {
   }
   &.video {
     background: #A160FB;
+    position: relative;
   }
   &.gif {
     background: #5162FA;
