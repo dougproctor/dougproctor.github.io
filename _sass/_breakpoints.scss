@@ -8,7 +8,6 @@ $xl: 1500px;//extra-large
 $sm-dn: "(max-width: #{$sm - 1})";
 $md-dn: "(max-width: #{$md - 1})";
 $lg-dn: "(max-width: #{$lg - 1})";
-$xl-dn: "(max-width: #{$xl - 1})";
 
 $md-up: "(min-width: #{$md})";
 
@@ -25,15 +24,15 @@ $md-up: "(min-width: #{$md})";
 }
 
 
-@mixin small-desktop {
+@mixin desktop {
   @media screen and #{$lg-dn} { @content; }
 }
 
-@mixin desktop {
-  @media screen and #{$xl-dn} { @content; }
+@mixin desktop-up {
+  @media screen and #{$lg-up} { @content; }
 }
 
-
+// use
 // @include phone {
 //   background: yellow;
 // }

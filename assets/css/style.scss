@@ -11,13 +11,6 @@ $action: #FF1600;
 
 * { font-family: 'Source Sans Pro', sans-serif; }
 
-// temporary
-// body,
-// header {
-//   margin: 0 auto;
-//   max-width: 1440px;
-// }
-
 body {
   padding-top: 65px;
   @include phone {
