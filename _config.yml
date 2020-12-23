@@ -1,3 +1,5 @@
 url: "https://tinytalk.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 title: "Tiny Talk" # the name of your site, e.g. ACME Corp.
+name: "Tiny Talk"
+description: "Bringing back social serendipity"
