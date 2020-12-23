@@ -1,19 +1,15 @@
 // @import 'breakpoints';
 // @use 'breakpoints' as bp;
-$sm: 450px; //small
 $md: 700px; //medium
 $lg: 950px; //large
 $xl: 1500px;//extra-large
 
-$sm-dn: "(max-width: #{$sm - 1})";
 $md-dn: "(max-width: #{$md - 1})";
 $lg-dn: "(max-width: #{$lg - 1})";
 
 $md-up: "(min-width: #{$md})";
+$lg-up: "(min-width: #{$lg})";
 
-@mixin mobile {
-  @media screen and #{$sm-dn} { @content; }
-}
 
 @mixin phone {
   @media screen and #{$md-dn} { @content; }

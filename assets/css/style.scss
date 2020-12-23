@@ -128,10 +128,18 @@ div.internal {
       font-size: 50px;
       margin-top: 136px;
       margin-bottom: 84px;
+      @include phone {
+        font-size: 30px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+      }
     }
     p {
       font-size: 35px;
       text-align: center;
+      @include phone {
+        font-size: 16px;
+      }
     }
     div {
       margin-top: 40px;
@@ -146,10 +154,14 @@ div.internal {
         margin-top: 60px;
         $offset: 4%;
         &:first-of-type {
-          margin-right: $offset;
+          @include phone-up {
+            margin-right: $offset;
+          }
         }
         &:last-of-type {
-          margin-left: $offset;
+          @include phone-up {
+            margin-left: $offset;
+          }
         }
         img {
           margin: 0 auto;
