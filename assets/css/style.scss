@@ -299,7 +299,10 @@ div.internal {
   &.action {
     div {
       @include phone-up {
-        width: 55%;
+        min-width: 275px;
+      }
+      @include desktop {
+        min-width: 234px;
       }
     }
   }
@@ -322,10 +325,13 @@ div.internal {
   &.users {
     background: $secondary;
     h3 {
-      width: 55%;
-    }
-    h3 {
       color: #fff;
+      @include phone-up {
+        min-width: 275px;
+      }
+      @include desktop {
+        min-width: 234px;
+      }
     }
   }
 
