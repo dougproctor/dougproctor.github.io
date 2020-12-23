@@ -298,12 +298,16 @@ div.internal {
   }
   &.action {
     div {
-      @include phone-up {
+      @include desktop-up {
         min-width: 275px;
       }
       @include desktop {
         min-width: 234px;
       }
+      @include phone {
+        min-width: auto;
+      }
+
     }
   }
   &.mission {
@@ -317,7 +321,8 @@ div.internal {
     background: #5162FA;
     img {
       @include phone {
-        width: 46%;
+        max-height: 271px;
+        width: auto;
       }
     }
   }
@@ -326,11 +331,14 @@ div.internal {
     background: $secondary;
     h3 {
       color: #fff;
-      @include phone-up {
+      @include desktop-up {
         min-width: 275px;
       }
       @include desktop {
         min-width: 234px;
+      }
+      @include phone {
+        min-width: auto;
       }
     }
   }
