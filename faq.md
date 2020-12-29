@@ -47,7 +47,7 @@ title: FAQ
 
   <h3> My screen is black and/or my audio doesn't work during a Tiny Talk </h3>
 
-    <p> If during a Tiny Talk you notice that your audio or video are having issues (e.g. you can't be heard or your screen is black), then it's very likely that you have not granted Tiny Talk the necessary camera and microphone permissions. Go to your phone's privacy settings and ensure that Tiny Talk has access to your phone's microphone and camera. </p>
+    <p> If during a Tiny Talk you notice that your audio or video are having issues (e.g. you can't be heard or your screen is black), then it's very likely that you have not granted Tiny Talk the necessary camera and microphone permissions on your device. Go to your phone's privacy settings and ensure that Tiny Talk has access to your phone's microphone and camera. </p>
     <p> These permissions are only ever used to let you see and speak to other users during a Tiny Talk.</p>
 
   <h3> How do I share Tiny Talk with my friends? </h3>
@@ -56,10 +56,10 @@ title: FAQ
 
   <h3> ... another social network app? Wait but why? </h3>
 
-    <p> We built Tiny Talk to enable friends to connect in fun, real and random ways. Our motivation to build Tiny Talk was in part fueled by the following observations:</p>
+    <p> We built Tiny Talk to make it easier for people to stay connected in real and meaningful ways with the people who matter to them. Our motivation to build Tiny Talk was in part fueled by the following observations:</p>
     <p> 1. Because we are spending so much more time at home, we are missing the serendipitous encounters of everyday life. We don't run into friends in the park and at restaurants as we used to, and our unplanned social encounters with friends have morphed into 30 minute scheduled zoom calls and hang-outs.</p>
-    <p> 2. The vast majority of existing social network tools have a one-to-many structure -- you can post, tweet, snap, and share every waking moment, but it's harder than ever to actually connect. Our aim with Tiny Talk is to facilitate the type of real, meaningful and spontaneous one:one interactions that we feel are missing -- and to make them easy, low-commitment and fun.</p>
-    <p> 3. All in all, our mission with Tiny Talk is to bring all of us just a little bit closer to the people we care about.</p>
+    <p> 2. The vast majority of existing social network tools have a one-to-many structure -- you can post, tweet, snap, and share every waking moment, but it's harder than ever to actually connect. Our aim with Tiny Talk is to facilitate the type of real, meaningful and spontaneous one-to-one interactions that we feel are missing -- and to make them easy, low-commitment and fun.</p>
+    <p> 3. All in all, our mission with Tiny Talk is to bring back social serendipity in order help people stay connected to the people that matter to them. </p>
 
   <h3> How do I stay in touch with someone from a Channel if we don't have each others' contact information? </h3>
 
